@@ -1,0 +1,595 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@uq.edu.au
+Room 78-305
+
+NEW PAGE
+
+07
+Tasks and user goals
+UX Goals and Metrics
+2
+
+NEW PAGE
+
+In this session…
+Hierchical Tasks Analysis
+•
+UX Goals
+•
+SMART User Experience Strategy
+•
+Role and key issues of data gathering
+•
+User Evaluations
+•
+4
+
+NEW PAGE
+
+Task Analysis
+After knowing the users and their goals, tasks should be
+•
+identified
+Tasks need to be performed by the user to achieve the
+•
+goal (the desired final result)
+Task analysis helps us with better understanding of:
+•
+ goals
+ what users actually do step by step to achieve the goal
+ how people perform their tasks
+ their priorities, preferences and intentions
+ task flow, frequencies and sequences
+Task analysis is not just a pre-design process and can be
+•
+done for an existing system
+5
+
+NEW PAGE
+
+Hierchical Task Analysis
+Hierarchical Task Analysis is a popular task analysis technique
+•
+It is used to represent decomposition of tasks and subtasks
+•
+Tasks are clustered into plans and each plan groups the subtasks
+•
+The diagram includes the hierarchy, subtasks, and the plans
+•
+Plans describe the order and constraints, and the type of plan
+•
+6
+
+NEW PAGE
+
+Example
+Chapter 15: Task analysis from Dix, Finlay, Abowd and Beale (2004). Human-Computer Interaction)
+7
+
+NEW PAGE
+
+Plans in HTA
+Plans are important to explain the hierarchy, flow and relationships
+•
+Different types of plans:
+•
+ Fixed sequence
+ E.g. do 1.1 then 1.2 then 1.3
+ Optional tasks
+ E.g if the pot is full, do 2
+ Wait for events
+ E.g. wait for the kettle to boil 1.4
+ Cycles
+ E.g. do 5.1 - 5.3 for each guest
+ Time-sharing
+ E.g. do 1; at the same time if the pot is full do 2
+ Discretionary
+ E.g. do 3.2 and 3.3 in any order
+Mixtures combine several of the above
+•
+8
+
+NEW PAGE
+
+DVD Example
+9
+
+NEW PAGE
+
+UX Goals
+High-level objectives, in terms of
+•
+anticipated user experience
+Can be driven by business goals
+•
+ Reflect real use of a product
+ Identify what is important to an
+organisation, its customers, and its
+users
+Expressed as desired effects to
+•
+be experienced in use
+10
+UX Book, §10.2
+
+NEW PAGE
+
+UX Goals
+Ease of use
+Walk-up-
+and-use Power
+learnability performance
+for new for experts
+UX
+users
+Goals
+Error
+High
+avoidance for
+customer
+intermittent
+satisfaction
+users
+Safety /
+reliability
+for critical
+systems
+11
+UX Book, §10.2
+
+NEW PAGE
+
+Measuring UX Goals
+What is it you are going to
+•
+measure?
+ Objective (directly measurable)
+ Initial performance
+ Long-term performance
+ Learnability
+ Retainability
+ Advanced feature usage
+ Subjective (based on opinions)
+ First impression
+ Long-term satisfaction
+12
+UX Book, §10.5
+Image source: https://flic.kr/p/66M8qu
+
+NEW PAGE
+
+Measuring UX Goals
+How are you going to
+•
+measure it?
+ ‘Measuring instruments’
+ Benchmark tests
+ User satisfaction questionnaires
+ Many guidelines in UX Book
+§10.6
+13
+
+NEW PAGE
+
+UX Metrics
+Metrics are indicators that
+•
+show whether your UX
+strategy is working
+Objective/performance-
+•
+oriented
+ Taken while participants are
+doing a benchmark task
+Subjective
+•
+ Based on a rating or score from
+questionnaire results
+14
+This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+Examples of UX Metrics
+Percentage of task completed in a timed task
+Ratio of successes to failures
+Time spent moving cursor
+Fixations on the screen to assess cognitive load
+15
+
+NEW PAGE
+
+Focus on Outcomes not Features
+An output is a product or
+•
+service that you create
+An outcome is the problem
+•
+that you solve with that
+product
+A feature is something a
+•
+product or service offers
+A benefit is what customers
+•
+actually want
+16
+Nielsen Norman Group
+Image source: https://truecaller.blog/2020/02/27/ship-outcomes-not-features/
+
+NEW PAGE
+
+“Creating a good user experience”
+17
+
+NEW PAGE
+
+S.M.A.R.T. User Goals
+Specific
+• Precisely states what needs to be accomplished
+Measurable
+• Qualitatively or quantitatively
+Actionable • Specific goal leads to identification of content
+or functionality that satisfies it
+Relevant • Appropriate for the level of interaction being
+focused on
+Trackable • Over time in order to evaluate immediate and
+longer term success
+18
+
+NEW PAGE
+
+Let’s think about measuring experience:
+https://www.menti.com
+Go to menti.com and enter 4644 2901
+Imagine a government wants to know
+which of its hospitals achieve the best
+patient health outcomes, so it can study
+their practices, reward them, give those
+hospitals more money and resources,
+and create better standards for best
+practice.
+What simple metric can it collect
+to get this information?
+19
+
+NEW PAGE
+
+A DUMB User Goal
+“I want a web page that’s easy to use. (i.e. I want a good
+user experience.)”
+20
+Image source: This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+S.M.A.R.T. User Goals
+Specific
+• Precisely states what needs to be accomplished
+Measurable
+• Qualitatively or quantitatively
+Actionable • Specific goal leads to identification of content
+or functionality that satisfies it
+Relevant • Appropriate for the level of interaction being
+focused on
+Trackable • Over time in order to evaluate immediate and
+longer term success
+21
+
+NEW PAGE
+
+Applying UX Goals
+22
+
+NEW PAGE
+
+Linking Back to Requirements
+23
+
+NEW PAGE
+
+Example UX Goal
+UG1: “I want to learn more
+•
+about this product’s design,
+features and specifications
+to determine whether it fits
+my budget, needs and
+preferences”
+UG2: “I want to purchase
+•
+this product”
+24
+Image source: https://www.ceros.com/originals/s-m-a-r-t-user-experience-strategy/
+
+NEW PAGE
+
+Example UX Goal
+Specific: State exactly
+•
+what the user needs to
+accomplish.
+UG1: A user wants to learn
+•
+more about this product’s
+design, features and
+specifications to determine
+whether it fits my budget,
+needs and preferences
+UG2: A user wants to
+•
+purchase this product
+25
+Image source: https://www.ceros.com/originals/s-m-a-r-t-user-experience-strategy/
+
+NEW PAGE
+
+Example UX Goal
+Measurable: What can be
+•
+qualitatively or
+quantitatively measured?
+UG1
+•
+ Clicks to see how users
+engage with content
+ Interviews/surveys to check
+relevance of content
+UG2
+•
+ Percentage of visitors who
+clicked “add to cart”
+26
+Image source: https://www.ceros.com/originals/s-m-a-r-t-user-experience-strategy/
+
+NEW PAGE
+
+Example UX Goal
+Actionable: What specific
+•
+goal allows us to identify
+content and functionality
+to meet the user’s goals?
+Need for large product
+•
+images would address both
+goals
+27
+Image source: https://www.ceros.com/originals/s-m-a-r-t-user-experience-strategy/
+
+NEW PAGE
+
+Example UX Goal
+Relevant: What
+•
+information is appropriate
+for a product detail page
+(but not for pages on
+returns policy or terms &
+conditions)?
+UG1
+•
+ More concise description of
+features and specifications
+UG2
+•
+ Price and Shipping Cost
+larger size
+28
+Image source: https://www.ceros.com/originals/s-m-a-r-t-user-experience-strategy/
+
+NEW PAGE
+
+Example UX Goal
+Trackable: What
+•
+measures can be tracked
+over time to determine
+immediate, short-term and
+long-term success of
+design?
+UG1
+•
+ Clicks on the content
+UG2
+•
+ Sales of the product over
+extended periods of time
+The S.M.A.R.T. User Experience Strategy — Smashing
+29
+Magazine
+
+NEW PAGE
+
+User Stories
+In UX industry, “user stories”
+•
+are simple grammatical
+sentences that encapsulate UX
+goals in the following format:
+As a [type of user]
+•
+I want to [take an action]
+•
+So that [a positive outcome]
+•
+30
+Image source: https://www.iconfinder.com/icons/4504895/audit_data_collection_procedure_data_gathering_financial_accounting_research_process_icon
+
+NEW PAGE
+
+User Stories
+In UX industry, “user stories” are
+•
+simple grammatical sentences that
+encapsulate UX goals in the
+following format:
+As a [type of user]…
+I want to [take an action]…
+so that [a positive outcome]…
+31
+Image source: https://www.iconfinder.com/icons/4504895/audit_data_collection_procedure_data_gathering_financial_accounting_research_process_icon
+
+NEW PAGE
+
+User Stories
+32
+Image source: https://www.iconfinder.com/icons/4504895/audit_data_collection_procedure_data_gathering_financial_accounting_research_process_icon
+
+NEW PAGE
+
+Guiding Principles
+Don’t be
+inflexible; use Context is
+Be goal-directed
+your common everything
+sense
+Everything
+The answer to
+It’s all about the should be
+most questions
+people evaluated in its
+is “it depends”
+own way
+Improvise,
+adapt, and
+overcome
+33
+Hartson & Pyla, 2012. The UX Book
+
+NEW PAGE
+
+Role of Data Gathering
+Early focus on users and tasks
+•
+Develop specific usability/user
+•
+experience criteria
+Use empirical measurement.
+•
+Iteration
+•
+34
+Image source: https://www.iconfinder.com/icons/4504895/audit_data_collection_procedure_data_gathering_financial_accounting_research_process_icon
+
+NEW PAGE
+
+Key Data Gathering Issues
+Setting goals for data gathering
+•
+Identifying potential participants
+•
+Relationship with participants
+•
+Triangulation
+•
+Pilot studies
+•
+35
+Image source: https://www.smartaboutmoney.org/Courses/My-Financial-Well-Being-Plan/Developing-a-Game-Plan
+
+NEW PAGE
+
+Ethical Treatment of Participants
+Institutional approval from independent body representing scientific and community standards
+•
+(can be waived for low risk educational projects).
+(In an organisation) Agreements about who gets to see employee data and when, and who does
+•
+not.
+Informed consent read and signed before data collected
+•
+Participants have a right to know:
+•
+ The goals of the study
+ What they will be asked to do and how long their involvement will last
+ The possible risks (aim for minimal risk)
+ What will happen to the research findings and who will see them
+ How their personal information and data will be stored and who has access (privacy concerns)
+ That they will not be quoted without their agreement
+ That they can leave when they wish without hindrance or questioning
+ That they will be treated politely and with respect…
+Focus:
+•
+ “We’re understanding the world you work/play/live in”
+36
+ “The software is being tested, not you!”
+Image source: This Photoby Unknown Author is licensed under CC BY-NC-ND
+
+NEW PAGE
+
+Data-Gathering Techniques
+37
+
+NEW PAGE
+
+User Evaluations
+User evaluations can
+•
+help designers uncover
+how users perceive a
+system before, during
+and after interacting
+with it
+Evaluations often only
+•
+give you part of the
+story.
+ They give you the “what”
+but NOT the “why”
+38
+Image source: This Photoby Unknown Author is licensed under CC BY-SA https://medium.muz.li/10-tips-on-how-to-conduct-a-perfect-heuristic-evaluation-ae5f8f4b3257
+
+NEW PAGE
+
+User Evaluations
+Qualitative
+Quantitative
+User
+Evaluations
+39
+
+NEW PAGE
+
+Quantitative and Qualitative
+40
+
+NEW PAGE
+
+No studio this week!
+But you've got some homework...
+•
+ HTA diagrams
+ UX Goals
+ Check out the blackboard site
+41
+
+NEW PAGE
+
+Summary
+UX Goals provide concrete targets for your design
+•
+that relate back to requirements gathered from your
+users
+They need to be SMART
+•
+They keep your design and engineering effort
+•
+grounded in what is important for success
+User evaluations should be completed multiple times
+•
+throughout the development process
+42
+
+NEW PAGE
+
+Next Time…
+In our next session, we will look at User-Based
+•
+Evaluations and Data Analysis
+43
+
+NEW PAGE

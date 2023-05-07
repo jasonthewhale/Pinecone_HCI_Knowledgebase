@@ -1,0 +1,800 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Maxime Cordeil
+deco2500@uq.edu.au
+
+NEW PAGE
+
+03
+Mental Models & Conceptual Design
+
+NEW PAGE
+
+In this session…
+Mental Models
+•
+Conceptual Design
+•
+Relationship between mental models and conceptual
+•
+design
+3
+
+NEW PAGE
+
+Looking Beyond The GE&E
+We need to look at the features of both sides of the
+•
+interaction: humans and systems (computers)
+4
+
+NEW PAGE
+
+Looking Beyond The GE&E
+Why we need to consider humans
+“Is it that the system doesn’t work, or that it just
+doesn’t work for people?”
+5
+Image source: https://www.dreamstime.com/system-error-people-run-panic-computer-broken-warning-message-screen-digital-data-danger-vector-illustration-image139718938
+
+NEW PAGE
+
+Looking Beyond The GE&E
+Our systems must recognize and respond to the
+•
+diversity of people, but what does this mean?
+Users (Humans)
+6
+Image source: https://pixabay.com/vectors/pawns-gaming-piece-users-157818/
+
+NEW PAGE
+
+Looking Beyond The GE&E
+Diversity means considering …
+•
+ Making meaning of the world:
+ Culture
+ Lived Experience
+Users (Humans)
+ Human Values
+ Mental Models
+ Cognition
+ Perception
+ Attention
+ Emotion
+ Social
+ Temporal
+7
+Image source: https://pixabay.com/vectors/pawns-gaming-piece-users-157818/
+
+NEW PAGE
+
+Looking Beyond The GE&E
+When we add these factors back into our view of
+•
+interaction …
+8
+
+NEW PAGE
+
+Looking Beyond The GE&E
+The context of use is a significant consideration
+•
+We find out about many of these things through the
+•
+process of contextual inquiry
+9
+
+NEW PAGE
+
+Looking Beyond The GE&E
+10
+Image source: https://whatvwant.com/remove-password-from-pdf-unlock-pdf-hacks/
+
+NEW PAGE
+
+Looking Beyond The GE&E
+11
+Image source: https://whatvwant.com/remove-password-from-pdf-unlock-pdf-hacks/
+
+NEW PAGE
+
+Do you want to save changes before closing?
+GOAL: minimise the document
+GULF OF EXECUTION
+Plan: minimise the document
+Specify: find the minimise button
+Perform: click the minimise button
+GULF OF EVALUATION
+Perceive: notice pop-up modal window
+Interpret: read/understand question
+Compare: document not minimised vs.
+now have to respond to question
+12
+
+NEW PAGE
+
+Do you want to save changes before closing?
+NEW GOAL: dismiss modal dialog to
+try to minimise window again
+GULF OF EXECUTION
+Plan: click an answer
+Specify: find “no”
+Perform: click “no”
+GULF OF EVALUATION
+Perceive: modal window and document
+disappear without animation
+Interpret: document is closed (!)
+Compare: document is gone vs. modal
+window dismissed
+13
+
+NEW PAGE
+
+Looking Beyond The GE&E
+Culture – what is a reasonable answer to a question with a
+mistaken premise?
+Lived Experience
+Human Values
+Mental Models – what was expected to happen?
+Cognition – what is understood to be happening?
+Perception – what is seen to be happening?
+Attention – what is being focused on?
+Emotion – what state of mind? stressed? tired?
+Social
+Temporal – what just happened prior? how does that matter
+now?
+14
+Image source: https://whatvwant.com/remove-password-from-pdf-unlock-pdf-hacks/
+
+NEW PAGE
+
+Diversity of People – Culture
+“Culture is the collective programming of the mind
+•
+which distinguishes the members of one group from
+another” – G. Hofstede & G.J. Hofstede (2005),
+Cultures and Organisations: Software of the mind
+Culture can have an influence on:
+•
+ Learning styles National
+Culture
+ Attitudes to change
+ Expectations, assumptions
+ Aesthetic taste
+Personal Corporate
+Culture Culture
+ Judgment
+ Perception
+15
+
+NEW PAGE
+
+Diversity of People – Culture
+“Culture” is not often solely or primarily responsible for
+•
+many important differences
+A focus on users’ culture can also invite incorrect, and
+•
+damaging, stereotypes
+Culture is an important consideration because it requires
+•
+designers to identify their own culturally-based
+assumptions about what they consider to be ‘normal’ or
+‘obvious', not because it provides a shortcut for grouping
+large cultural groups together as the ‘same’. Many
+cultural stereotypes are inaccurate.
+When we design, we have to see our own culture.
+•
+16
+
+NEW PAGE
+
+Diversity of People – Culture
+18
+Image source: https://www.toptal.com/designers/business-website-design/cross-cultural-design
+
+NEW PAGE
+
+Diversity of People – Culture
+19
+Image source: https://www.toptal.com/designers/business-website-design/cross-cultural-design
+
+NEW PAGE
+
+Diversity of People – Lived Experience
+“Personal knowledge about the world gained through direct, first-
+•
+hand involvement in everyday events rather than through
+representations constructed by other people” – Oxford Reference
+Experience that is embedded in a ‘natural’ or ‘real’ context of use
+•
+Incorporates people’s perceptions of those experiences – the
+•
+meaning that they attribute to the experience
+20
+Image source: https://www.yellowoctopus.com.au/products/gpo-746-traditional-rotary-phone This Photoby Unknown Author is licensed under CC BY-SA-NC This Photoby Unknown Author is licensed
+under CC BY-SA
+
+NEW PAGE
+
+Diversity of People – Human Values
+What’s important to people:
+•
+ Guiding principles e.g. justice, security, freedom,
+community, individuality, responsibility/duty…
+ Something we cherish e.g. spending time with friends,
+personal privacy, self-improvement…
+ You'll need to this when you analyse your
+interviews...
+Privacy vs Distrust vs
+Discount? Connection?
+21
+Image source: https://www.itnews.com.au/news/qld-to-replace-go-card-with-smartphone-bank-card-tokens-409321 https://marketingland.com/library/channel/social-media-marketing
+
+NEW PAGE
+
+Identifying Human Values
+What’s important to people:
+•
+The quote (next slide) comes from an interview from
+•
+a teacher talking about how new measurement
+technologies change the way children “do” science at
+primary school. When studying water quality,
+children used to have to take a physical sample of
+water from the creek, identify its colour from a chart,
+perform chemical (litmus) tests to find its pH levels
+etc. Now they have a device they can stick in the
+water and get the readings:
+22
+
+NEW PAGE
+
+Identifying Human Values
+“It [the old way] is fun for the kids and I think doing
+•
+that hands-on gives them a better appreciation of
+what they are doing and what they are seeing,
+experiencing it, whereas when you just put a device
+in water and pull it out, that tells you what it is. You
+really don’t have a great understanding of what it is,
+‘oh, I am reading salinity, um I am reading density
+and I am reading turbidity and I am reading oxygen
+levels’, but what does that really mean?…”
+23
+
+NEW PAGE
+
+Identifying Human Values
+Fun
+•
+Hands-on activity
+•
+Doing it themselves
+•
+Personal experience
+•
+“Great understanding”
+•
+What measurement “really means”
+•
+Instantaneous results/numbers
+•
+Abstract numbers
+•
+Invisible process of measurement
+•
+Hidden relationship between the water and the results on screen—how did
+•
+the ‘magic box’ get those numbers?
+24
+
+NEW PAGE
+
+Identifying Human Values
+How do we design systems that support values?
+•
+Read your interviews not just for what they say or
+•
+what their opinions are, but for what values you can
+identify from the points they make, the things they
+call out as being important, and reasons they give.
+25
+
+NEW PAGE
+
+Mental Models
+Refers to a user’s underlying expectations about how something should work
+•
+Based on their existing experiences with what people perceive as similar
+•
+interactions or systems or by assumptions they’ve made based on how it appears
+(perceived affordances)
+Allows people to reason about a system to determine how it works and to predict
+•
+the behaviour of a system or application including how to recover from errors
+A user’s mental model is constantly evolving and subject to change due to
+•
+influences by new experiences with the product, other technologies, and day to day
+life
+26
+Image source: https://uxdesign.cc/my-mental-model-of-time-2a613e303eb1
+
+NEW PAGE
+
+Mental Models
+I want to heat my oven to 180oC as fast as possible
+•
+27
+https://www.staxappliances.com.au/artusi-60cm-built-in-electric-oven-cao6x.html
+
+NEW PAGE
+
+Mental Models
+Audience poll:
+•
+Go to www.menti.com and use the code 1402 9819
+•
+28
+https://www.staxappliances.com.au/artusi-60cm-built-in-electric-oven-cao6x.html
+
+NEW PAGE
+
+Mental Models
+I want to heat my oven to 180oC as fast as possible
+•
+GAS? ELECTRIC?
+29
+https://www.staxappliances.com.au/artusi-60cm-built-in-electric-oven-cao6x.html
+
+NEW PAGE
+
+Mental Models
+30
+Image source: https://www.insider.com/things-you-should-never-do-at-a-grocery-store-2020-1#avoid-placing-items-on-shelves-where-they-dont-belong-1 https://shop.coles.com.au
+https://thevinylfactory.com/features/the-8-best-tape-decks-for-home-listening/ https://electrodealpro.com/amazon-music-introduces-a-free-online-music-streaming-package-that-can-be-tried-in-vietnam/
+
+NEW PAGE
+
+Forming Mental Models
+• A critical method of obtaining answers
+Observation about our general surroundings
+• Users update their mental models based
+on additional experience with the system
+– Don Norman
+Mental
+Model
+• Cultural expectations shape human
+perceptions
+• All design is cultural. If you aren’t
+identifying your own cultural
+assumptions, don’t expect users to Culture
+make the same sense of the system
+31
+that you do.
+
+NEW PAGE
+
+Leveraging Mental Models
+• Can be used to represent our
+target users
+User
+• Helps us to understand users’
+Personas
+context, behaviours, attitudes,
+needs, challenges, pain points,
+• The ability to understand and
+goals, and motivations.
+identify with another person’s
+context, emotions, goals, and
+motivations
+• Putting ourselves in someone
+else’s shoes, develops an
+User-
+Centred appreciation of contextual cues
+• Studying users in their own Design from the environment
+Approaches
+natural environment to obtain
+information about the context
+of use
+Contextual Empathic
+• Can gain useful perspectives
+Inquiry Design
+that enable us to gather a
+realistic view of users’ natural
+32
+behaviours
+
+NEW PAGE
+
+Beyond the GE&E
+Designers and developers also have mental models of
+•
+the systems they build
+33
+
+NEW PAGE
+
+Beyond the GE&E
+Designers and developers also need to be considered
+•
+34
+
+NEW PAGE
+
+Beyond the GE&E
+Our view of interaction now looks like this …
+35
+
+NEW PAGE
+
+Diversity of People
+The same human issues also apply to designers and
+developers
+We often design and develop technology around how we understand the world, but it should
+36
+be around how the user understands the world
+
+NEW PAGE
+
+Conceptual Design
+Going from a great idea to a fully functioning app or
+•
+system is a long process that involves many steps,
+such as UI design and functional testing
+Before any development starts, it’s important to have
+•
+a clear picture of what is being created
+37
+Image source: https://uxdesign.cc/understanding-mental-and-conceptual-models-in-product-design-7d69de3cae26
+
+NEW PAGE
+
+Conceptual Design
+It is the job of conceptual design to connect the two
+•
+This ensures that everyone is ‘on the same page’
+•
+A designer’s mental A user’s mental
+(conceptual) model is model is a
+a vision of how a description of how
+system works as held the system works, as
+by the designer held by the user
+38
+Image source: https://uxdesign.cc/understanding-mental-and-conceptual-models-in-product-design-7d69de3cae26
+
+NEW PAGE
+
+Conceptual Design
+39
+Preece, Rogers, Sharp (2019)
+
+NEW PAGE
+
+Conceptual Design
+This is an “abstraction”:
+Conceptual Design involves
+•
+producing the conceptual
+model for the product
+Conceptual Model describes
+•
+an abstraction outlining what
+… and so is this:
+people can do with a product
+and what concepts are needed
+to understand how to interact
+with it
+40
+Preece, Rogers, Sharp (2019)
+
+NEW PAGE
+
+Conceptual Design
+41
+Hartson & Pyla (2015)
+
+NEW PAGE
+
+Conceptual Design
+This is a “manifestation”:
+A conceptual design is the part
+•
+of an interaction design containing
+a theme, notion, or idea with the
+purpose of communicating a design
+vision about a system or product
+A conceptual design is the
+•
+… and so is this:
+manifestation of the designer’s
+mental model within the system
+[…]. It is the part of the system
+design that brings the designer’s
+mental model to life within the
+system.
+42
+Hartson & Pyla (2015)
+
+NEW PAGE
+
+Conceptual Design – Course Approach
+The manifestation or abstraction of the designer’s
+1.
+mental model of the system, encompassing a theme,
+notion, or idea with the purpose of communicating a
+design vision about a system or product
+The process used to transform user needs and
+2.
+requirements (aims, desires and functionality) into
+that manifestation or abstraction
+Important to note – conceptual design is not the same
+•
+as a user interface
+ It is the concepts that people need to understand in order to
+use the interface.
+43
+
+NEW PAGE
+
+Conceptual Design - example
+Echoing common mental models in the design
+•
+leads to successful interface design
+Task: booking a service online
+•
+Common mental model involves diaries, calendar,
+•
+dates, time (notion, metaphor)
+What are Conceptual
+Models? | IxDF
+44
+(interaction-design.org)
+
+NEW PAGE
+
+Conceptual Design – example
+(continued)
+Navigating an e-book: pc vs tablet (Task)
+•
+Common mental model pages,
+•
+bookmarks, interactions...
+45
+
+NEW PAGE
+
+Conceptual Design - Norman
+(1) Introduction to Conceptual Models - Intro to the
+•
+Design of Everyday Things - YouTube
+46
+
+NEW PAGE
+
+Conceptual Design – Course Approach
+The manifestation or abstraction of a Conceptual
+•
+Design will consist of four elements:
+ System Concept
+ Initial Design Guidelines
+ Initial System Requirements
+ Prototype (physical representation)
+47
+
+NEW PAGE
+
+System concept statement
+A structured, clear, and updated explanation of what your
+system is and what it does.
+Created from design directions and outcomes from
+analysing all data from user inquiry.
+It has 5 parts:
+48
+
+NEW PAGE
+
+System concept statement example
+In this example, we use one data point, but you will need
+to synthesise many insights, design directions and
+outcomes to do this step.
+The domain that has been chosen is behaviour change
+and the particular topic is a problem with saving
+money.
+The first step is to truly understand the nature of the
+problem.
+49
+
+NEW PAGE
+
+System concept statement example
+From our interviews, we may have identified the following statement
+and included it into our affinity diagram:
+“I get bored on weekends, trying to find something to do. So I talk to
+my housemates and we decided to go to the city just to wander
+around. But I always end up shopping and buying something with
+the money that I intended to save.”
+Breaking this down, the issues might be:
+● Being bored on a weekend
+● Choosing the city as a place to spend idle time
+● When in the city, they end up shopping
+● If they go shopping, they end up buying things
+Should we focus on all of these issues or just one?
+50
+
+NEW PAGE
+
+System concept statement example
+We can then choose to focus on one aspect of this issue:
+when in the city, they end up shopping.
+By focusing on this aspect of the problem, we can then
+propose a solution:
+51
+
+NEW PAGE
+
+System concept statement example
+From the same information, we can see that they also express some
+human values:
+● Finding interesting things to do
+● Enjoying the city as a place to be
+● Being social with friends
+There are possibly some other issues that also need to be considered that
+are general concerns or interests, for example:
+● Having fun
+● Being careful of data usage on their phone
+● Personal tastes of what they find enjoyable
+From these things we can start to construct key bits of information that
+need to be taken into account when developing a solution. Other aspects of
+the original interview quote could also be considered for a different
+solution.
+52
+
+NEW PAGE
+
+System concept statement example
+From this information we can then start to construct the
+one sentence problem statement. This is what the one
+sentence problem statement might look like:
+53
+
+NEW PAGE
+
+System concept statement example
+The next thing we need to add is a high-level description
+of how the system works, which is an idealised view of
+how the system might work for example:
+54
+
+NEW PAGE
+
+System concept statement example
+The bottom 3 sections will be covered in lectures next
+week, but are explained in the guide for this week on
+blackboard.
+55
+
+NEW PAGE
+
+System concept statement - as a class
+Let’s work through a quick example using a data point from someone in
+the class
+What’s the domain and topic?
+1.
+What’s the data point?
+2.
+What are the issues? Which will you choose?
+3.
+Human values and considerations?
+4.
+Ideas for a solution? Describe as a one sentence problem statement
+5.
+including:
+The activity to be supported
+a.
+The form of the solution
+b.
+The identify of the users
+c.
+The level of support and/or desired experience
+d.
+Add a high-level description of how the system works (“it will… it
+6.
+will…”)
+56
+
+NEW PAGE
+
+Design guidelines (AKA design principles)
+“A UX, or interaction, design
+guideline is a statement suggesting
+recommendations and
+considerations to inform the design
+of a specific aspect or component of
+interaction in a certain context.
+Some design guidelines come from
+study data, but most come from
+principles, maxims, and experience.
+(UX Book, Chapter 22)”
+Examples are:
+Apple Human Interface
+●
+Guidelines
+Design for Android
+●
+57
+Firefox Design Values
+●
+
+NEW PAGE
+
+System requirements statements
+Each system requirement statement is a ‘card’ that
+describes a feature for an outcome.
+Each has a description of the requirement, and the
+insights and data points that justify why it is necessary.
+59
+
+NEW PAGE
+
+System requirements statements
+One example system requirements statement:
+60
+
+NEW PAGE
+
+System requirements statements
+One example system requirements statement:
+You may just combine
+these to describe the
+feature if it makes more
+sense
+61
+
+NEW PAGE
+
+System requirements statements - as a
+class
+Let’s make an example system requirement statement
+from the system concept statement we made earlier
+What’s a possible necessary feature? (think about what
+1.
+the system will do)
+What’s the rationale, why is this feature needed?
+2.
+62
+
+NEW PAGE
+
+Summary
+The Gulfs of Execution and Evaluation (GE&E) help us
+•
+to design an interaction, understand where things may
+go wrong, and point to areas for solutions.
+A mental model is a person’s model (thoughts) about:
+•
+how to interact with a system and how that system
+works
+Both users and designers have mental models about a
+•
+system.
+Conceptual Design is created by the designer as a high-
+•
+level plan for how the system will work and fit together
+Made up of different elements that shape the
+•
+organisation of the system
+63
+
+NEW PAGE
+
+Next Time…
+In our next session, we will continue delving into the
+•
+human issues that impact on interaction and look at
+Interaction
+64
+
+NEW PAGE

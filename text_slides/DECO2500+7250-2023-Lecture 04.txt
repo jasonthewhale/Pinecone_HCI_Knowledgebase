@@ -1,0 +1,567 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Maxime Cordeil
+
+NEW PAGE
+
+04
+Prototyping, Interaction Paradigms
+and Modes
+2
+
+NEW PAGE
+
+In this session…
+Conceptual Design: Prototyping
+•
+Interaction Paradigms
+•
+Interaction Modes
+•
+Introduction to Assignment 1 "Design Proposal"
+•
+3
+
+NEW PAGE
+
+Conceptual Design
+System Concept
+•
+Initial Design Guidelines
+•
+Initial System Requirements
+•
+Prototype
+•
+4
+
+NEW PAGE
+
+Interaction Design approach
+1.Who are the users?
+2.What do we mean by‘needs’?
+3.Scenario? Story? Tasks?
+4.How to generate alternatives
+5.How to choose among alternatives
+5
+
+NEW PAGE
+
+Prototypes as conceptual
+design artefacts
+• Representation
+• Precision
+• Interactivity
+• Evolution
+FromBeaudouin-Lafon,M.andMackay,W.E.(2002)PrototypingDevelopmentandTools.InJ.A.JackoandA.Sears(Eds),HandbookofHuman-ComputerInteraction.NewYork:Lawrence
+Erlbaum Associates,pages1006-1031.(Revisededition2007)Chapteravailableat:https://www.lri.fr/~mackay/pdffiles/Prototype.chapter.pdf
+
+NEW PAGE
+
+Representation
+Form of the prototype
+Off-line (paperprototypes)
+• Sketches, storyboards, mock-ups,role-play
+• Cheap& fast – can do many iterations at
+low cost. Perfect for brainstorming
+
+NEW PAGE
+
+Storyboard
+Based on Scenario and Persona
+•
+Storyboarding and
+User-interface design! |
+by Shaktiditya katiyar
+| UX Planet
+Storyboards Help Visualize UX
+Ideas (nngroup.com)
+8
+
+NEW PAGE
+
+Storyboard
+source 9
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+Representation
+Form of the prototype
+On-line(softwareprototypes)
+• Partiallyimplementedor digitallymocked-up
+• Animations,interactivevideo,scriptedapps
+Representations
+• Shouldsuitpurpose: should correspond to where you’re at in the
+design process
+• Allows to test the concept further, “more realistic setup”
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+Precision
+Level of detail in the prototype
+• Relevance of detail in the prototype
+• Should suit purpose/goalof prototype
+• Lessprecise ==more open fordiscussion
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+Interactivity
+How much can the user do with the prototype
+Fixed(video,animation, storyboard)
+What willthe interaction looklike?
+FixedPath (scripted, click throughs, screenflows)
+Experienceof interacting witha predetermined scenario
+Open
+Experienceof interacting withnear-to-fullsystem
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+
+
+NEW PAGE
+
+Evolution
+• Lifecycle of the prototype
+• Rapid
+• throw-away,fast iterative
+• evolvethrough designiterations
+• Evolutionary
+• type of iterative
+• evolvesinto part of the finalsystem
+
+NEW PAGE
+
+Evolution
+The goal of a prototype (and to some extent stage in
+process) willdictate:
+its form(representation)
+•
+the level of detail(precision)
+•
+howmuchcontrol a user has overit (interactivity)
+•
+howlong it exists for(evolution)
+•
+
+NEW PAGE
+
+Rapid prototyping with paper
+Rapid Prototyping: Sketching | Google for Startups -
+•
+YouTube
+Mobile Application Design : Paper Prototype Video -
+•
+YouTube
+Simulate:
+•
+ interaction/input (mouse, keyboard, touch …)
+• events/feedback (pages changing, popups, messages...)
+Don't have to code it, simulating enough to test
+•
+concepts
+23
+
+NEW PAGE
+
+Paradigms & Modes
+24
+
+NEW PAGE
+
+Paradigms
+“A model of something, or a very clear and typical
+•
+example of something” – Cambridge Dictionary
+HCI history depicts a number of paradigm shifts
+•
+As new technology arrives, new insights into the
+•
+relationship between humans and computers are
+created
+25
+Image source: https://1john417.wordpress.com/2015/01/12/paradigm-shift/
+
+NEW PAGE
+
+Paradigms of Interaction
+Informs design of a conceptual model
+•
+A particular philosophy or way of thinking about interaction design
+•
+ E.g., designing applications for the desktop environment
+Batch Timesharing Networking Graphical Microprocessor WWW Ubiquitous Embodied
+processing display Computing Interaction
+•Interactive •Community •Personal •Global
+•Impersonal computing computing •Direct computing information •Computing is •Where the
+computing manipulation everywhere real and
+virtual worlds
+collide
+26
+
+NEW PAGE
+
+Interaction Paradigms
+Windows, Icons, Menus, Pointer
+•
+ WIMP
+Mobile/wearable
+•
+ Gestures (swipe, drag, pinch), voice
+Ubiquitous Computing
+•
+ Implicit/explicit
+Pervasive Computing
+•
+ Smart devices
+Embodied Interaction
+•
+ Mixed reality, tangible, social, virtual
+34
+
+NEW PAGE
+
+WIMP
+35
+Image source: http://horstmann.com/bigj/help/windows/tutorial.html This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Mobile/Wearable Devices
+Mobile computing involves mobile communication,
+•
+mobile hardware, and mobile software to allow
+computers to be transported
+Smartphones, laptops, tablets and wearables, etc. all
+•
+require different design approaches
+36
+
+NEW PAGE
+
+Ubiquitous Computing
+37
+Image source: https://quotefancy.com/quote/1694471/Mark-Weiser-The-most-profound-technologies-are-those-that-disappear-They-weave-themselves
+
+NEW PAGE
+
+Ubiquitous Computing
+Paradigm shift whereby
+•
+technology becomes almost
+invisible in our lives
+Ubiquitous computing is
+•
+the opposite of virtual
+reality
+38
+Image source: https://www.parc.com/blog/defining-ubiquitous-computing-vs-augmented-reality/
+
+NEW PAGE
+
+Pervasive Computing
+39
+Image source: https://internetofthingsagenda.techtarget.com/definition/pervasive-computing-ubiquitous-computing
+
+NEW PAGE
+
+Internet of Things
+Allows objects to be networked
+•
+with unique addresses so that
+they can interact with each other
+and cooperate with their
+neighbours to reach a common
+goal
+As more objects become internet-
+•
+enabled requires different design
+approaches
+https://www.youtube.com/watch?v
+=LVlT4sX6uVs
+C. Dobbins, M. Merabti, P. Fergus, and D. Llewellyn-Jones, “The Big Data Obstacle of Lifelogging,” in The 28th IEEE International Conference on Advanced
+40
+Information Networking and Applications (AINA’14), 2014, pp. 922–926.
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Internet of Things
+B. Safaei, A. M. H. Monazzah, M. B. Bafroei and A. Ejlali, "Reliability side-effects in Internet of Things application layer protocols," 2017 2nd International
+41
+Conference on System Reliability and Safety (ICSRS), 2017, pp. 207-212, doi: 10.1109/ICSRS.2017.8272822.
+
+NEW PAGE
+
+Internet of Things Poll
+Go to www.menti.com and use the code 8711 5903
+42
+
+NEW PAGE
+
+Embodied Interaction
+Tangible User Interfaces
+•
+ Digital information is interacted with through the
+physical environment
+ https://www.youtube.com/watch?v=lvtfD_rJ2hE&t=19s
+Mixed reality
+•
+ Where the virtual and real world come together into
+new visualizations to interact in real time (e.g.
+Microsoft HoloLens)
+ https://www.youtube.com/watch?v=aYdB2xBNFek
+Virtual reality
+•
+ Immersive experience whereby a 3D computer
+generated environment can be explored and interacted
+with
+ https://www.youtube.com/watch?v=0_2JWdIQlhw
+43
+
+NEW PAGE
+
+Interaction Modes
+Giving instructions
+•
+ Issuing commands using
+keyboard and selecting options
+via menus
+Conversing
+•
+ Interacting with the system as if
+having a conversation
+Manipulating and navigating
+•
+ Acting on objects and interacting
+with virtual objects
+Exploring and browsing
+•
+ Finding out and learning things
+44
+
+NEW PAGE
+
+Instructions
+Shell command line interpreters for
+•
+operating systems
+Command Prompt is available in most
+•
+Windows operating systems
+The Linux operating system, first
+•
+released in 1991, mainly uses
+command-line interfaces (CLI) or
+graphical user interfaces (GUI)
+Users interact with the computer via
+•
+The Shell
+ Allows commands to be typed into a text
+interface
+45
+
+NEW PAGE
+
+Voice as an Input
+Voice commands (instructions) are
+•
+issued to machines using Direct Voice
+Input (DVI)
+Speech recognition technology is easy to
+•
+use and readily available
+Downsides include inaccuracy due to
+•
+ambient noise and variations in
+pronunciation
+Designing for a system that doesn’t
+•
+have an interface is a new challenge
+46
+
+NEW PAGE
+
+Voice as an Input
+47
+Image source: https://searchcrm.techtarget.com/definition/voice-recognition
+
+NEW PAGE
+
+Sign Language as an Input
+Sign language technologies are often Disability
+•
+Dongles
+ A well intended elegant, yet useless solution to a problem we
+never knew we had – Liz Jackson (Founding Member
+@DisabledListOrg)
+Listen to your prospective users
+•
+Work with end users in your projects, especially those
+•
+with a disability and people from cultural and
+linguistic minorities
+Work on projects those with a disability want
+•
+worked on
+“The solutions proposed by signed language recognition
+•
+and other similar technologies (e.g. signed language
+gloves, avatars) are generally not feasible, because they
+are also based on naïve understandings of what deaf
+community signed languages are and how they work, or
+even the realistic needs and desires of deaf and hard of
+hearing signers striving for improved communication
+access.” Dr Gabrielle Hodge, Deaf academic, UCL
+48
+Image source: https://www.theatlantic.com/technology/archive/2017/11/why-sign-language-gloves-dont-help-deaf-people/545441/ https://twitter.com/nivchara_yahel/status/1224914103711543297
+
+NEW PAGE
+
+Sign Language as an Input
+The Auslan Communication Technologies Pipeline (Auslan CTP) project by Dr
+•
+Jessica Korte (UQ/AQ TAS DCRC Fellow)
+“[The project] is a proposed AI-based language technology for Auslan
+•
+(Australian Sign Language). I like to think of it as creating a prototype “Alexa
+for Auslan”. It is being developed using a participatory, human-centred design
+approach” Dr Jessica Korte
+A human-centred design approach has been applied to the Auslan CTP
+•
+project that involves potential users in the design process
+ Known philosophy of design approaches, including participatory design, celebrates
+that real users have abilities and insights that developers may not be aware of
+49
+
+NEW PAGE
+
+Manipulating and Navigating
+Replicating the sense of touch within
+•
+virtual technologies is seen as a new
+challenge
+Haptics is an emerging research area
+•
+that allows touch‐enabled interaction
+with virtual objects
+ Gloves are often used as input devices
+Objects can also be manipulated on
+•
+mobile devices via pinching and
+spreading gestures
+https://www.youtube.com/watch?v=ha2gtpXKboI
+50
+Lennart Thurfjell, John McLaughlin, Johan Mattsson, Piet Lammertse, (2002) "Haptic interaction with virtual objects: the technology and some applications", Industrial Robot: An
+InternationalJournal,Vol.29Issue:3,pp.210-215,https://doi.org/10.1108/01439910210425487
+
+NEW PAGE
+
+Exploring and Browsing
+Involves moving through virtual
+•
+environments
+A cave automatic virtual environment
+•
+(CAVE) system is an immersive
+virtual reality environment that users
+navigate through
+Can be enhanced with sound, video
+•
+and haptic feedback (force feedback
+vibrations)
+51
+Image source: https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment#/media/File:CAVE_Crayoland.jpg http://www.visbox.com/products/cave/
+
+NEW PAGE
+
+Face-Controlled VR Tech
+Interacting with virtual reality
+•
+using facial expressions in place of
+handheld controllers or touchpads
+Arindam Dey, Amit Barde, Bowen Yuan, Ekansh Sareen, Chelsea Dobbins, Aaron Goh, Gaurav Gupta, Anubha Gupta, Mark Billinghurst, “Effects of
+interacting with facial expressions and controllers in different virtual environments on presence, usability, affect, and neurophysiological signals,”
+International Journal ofHuman-Computer Studies, vol. 160, no. July 2021, p. 102762, Apr. 2022, doi: 10.1016/j.ijhcs.2021.102762
+52
+https://www.gizmodo.com.au/2022/02/virtual-reality-facial-expressions/
+
+NEW PAGE
+
+Interaction Analysis
+What the user will be doing
+•
+when carrying out the task?
+ E.g. searching information,
+exploring a virtual environment,
+etc.
+What interaction mode(s) are
+•
+best suited for the task?
+Any other constraints?
+•
+ E.g. budget, suitability of the
+technology for the activity
+53
+
+NEW PAGE
+
+DESIGN PROPOSAL
+Due date
+•
+54
+
+NEW PAGE
+
+Summary
+Interaction types provide a way of thinking about
+•
+how best to support the activities users will be doing
+when using a product or service
+ These lists are not exclusive or exhaustive
+They give you ways of thinking about the solution
+•
+space to the problems you have identified
+This is a design process and therefore one of creation
+•
+Not simply the case of crank the handle, follow the
+•
+process and tick the boxes
+55
+
+NEW PAGE
+
+Next Time…
+In our next session, we will look at Cognition
+•
+56
+
+NEW PAGE

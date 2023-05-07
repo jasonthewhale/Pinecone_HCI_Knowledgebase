@@ -1,0 +1,539 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@itee.uq.edu.au
+Room 78-305
+
+NEW PAGE
+
+08
+User-Based Evaluations and Data
+Analysis
+2
+
+NEW PAGE
+
+In this session…
+User–Based Evaluations
+•
+ Data analysis
+ System Usability Scale (SUS)
+ Technology Acceptance Model (TAM)
+ Time on Task
+ Think Aloud
+3
+
+NEW PAGE
+
+User–Based Evaluations
+Tests the usability and
+•
+functionality of a system
+Occurs in collaboration
+•
+with users
+Considered at all stages in
+•
+the design lifecycle
+Many evaluation methods
+•
+exist
+ System Usability Scale
+ Think Aloud
+ Time on Task
+4
+This Photoby Unknown Author is licensed under CC BY-NC
+
+NEW PAGE
+
+Data Analysis
+One of the most important
+•
+components
+Weak analysis produces
+•
+inaccurate results
+Inaccurate results hinder the
+•
+authenticity of the research and
+make the findings unusable
+Vital to choose your data analysis
+•
+methods carefully to ensure that
+your findings are insightful and
+actionable
+When to use each method
+•
+depends on the research questions
+5
+
+NEW PAGE
+
+Data-Gathering Techniques
+6
+
+NEW PAGE
+
+Quantitative and Qualitative
+7
+
+NEW PAGE
+
+Simple Quantitative Analysis
+• Standard deviation or variance (square
+root of) average deviation from the mean
+8
+https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/
+
+NEW PAGE
+
+Simple Quantitative Analysis
+Questionnaire with 5-
+point Likert items on it
+(strongly disagree to
+strongly agree)
+Choose a graph more
+suitable for your data
+Collation of
+results from six
+participants
+Some ways of viewing data:
+(P01–P06).
+- Raw numbers (1–5 ratings)
+- Trends (means, SDs)
+- Participant patterns
+9
+
+NEW PAGE
+
+Simple Quantitative Analysis
+10
+
+NEW PAGE
+
+Qualitative Analysis
+Many complex and socially based phenomena in HCI
+•
+cannot be easily quantified
+Qualitative research aims to:
+•
+ Understand the qualities of a particular technology
+ How people use it in their lives
+ How they think about it
+ How they feel about it
+ Understand why
+ Explain data and patterns
+A. Adams, P. Lunt, and P. Cairns, “A Qualitative Approach to HCI Research,” in Research Methods for Human-Computer Interaction,
+11
+2008, pp. 138–157
+This Photoby Unknown Author is licensed under CC BY-SA-NC
+
+NEW PAGE
+
+Qualitative Analysis
+12
+https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/
+
+NEW PAGE
+
+Qualitative Analysis
+Content Analysis Narrative Analysis Discourse Analysis
+•Analyse documented information •Analyse content such as from •Used to analyse interactions with
+•Usually used to analyse responses interviews, observations from the people
+from interviewees field, or surveys. •Analyses the social context in which
+•Focuses on using the stories and the communication between the
+experiences shared by people to researcher and the respondent
+answer the research questions occurred.
+•Looks at the respondent’s day-to-day
+environment and uses that
+information during analysis
+Grounded Theory Thematic Analysis Sentiment Analysis
+•Uses the data to explain why a •Used to deduce the meaning behind •The process of detecting positive or
+certain phenomenon happened. the words people use negative sentiment in text
+•Studies a variety of similar cases in •Discovers repeating themes in text • Focuses on the polarity of a text
+different settings and using the data that reveal key insights into data (positive, negative, neutral)
+to derive causal explanation •Outcome is a code frame that • Can detect specific feelings and
+captures themes in terms of codes, emotions (angry, happy, sad, etc),
+also called categories urgency (urgent, not urgent) and
+even intentions (interested v. not
+interested)
+13
+
+NEW PAGE
+
+System Usability Scale (SUS)
+Measures perceptions of
+•
+usability – Brooke (1986)
+A “quick and dirty” survey scale
+•
+to quickly and easily assess the
+usability of a product or service
+Generally technology agnostic
+•
+and non-proprietary
+14
+Image source: https://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/
+
+NEW PAGE
+
+Benefits of SUS
+Cheap and
+•
+Quick
+•
+Very easy to administer
+•
+An industry standard
+•
+Small sample size acceptable
+•
+Valid
+•
+15
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Drawbacks When Using SUS
+Complex scoring system
+•
+Results not a percentage
+•
+Results need to be normalized
+•
+Not a diagnostic tool
+•
+Might tell you THAT there is a
+•
+problem, but not much about the
+problem, why it is there, or what to
+do about it
+Not to be used in isolation
+•
+16
+This Photoby Unknown Author is licensed under CC BY-NC-ND
+
+NEW PAGE
+
+Measuring Perceptions of Usability
+1 2 3 4 5 17
+
+NEW PAGE
+
+Measuring Perceptions of Usability
+18
+
+NEW PAGE
+
+Analysing SUS
+Odd numbered questions (positively rated):
+subtract 1 from the score
+Even numbered questions (negatively rated):
+subtract response from 5
+Add up converted values
+Multiply by 2.5
+Gives a score out of 100 (percentile rank)
+19
+
+NEW PAGE
+
+Interpreting SUS
+20
+Image source: https://measuringu.com/interpret-sus-score/
+
+NEW PAGE
+
+Interpreting SUS
+>= 80.3 (A rated)
+•
+The average score
+•
+(at the 50th
+percentile) is 68 (C
+rated)
+=< 51 (F rated)
+•
+21
+Image source: https://measuringu.com/interpret-sus-score/
+
+NEW PAGE
+
+Technology Acceptance Model (TAM)
+Perceived Perceived
+Information systems
+• usefulness ease-of-use
+(PU) (PEOU)
+theory that illustrates
+how users come to
+Degree to
+accept and use a Degree to
+which a person
+which a person
+believes that
+technology (Davis,
+believes that
+using a
+using a
+particular
+1989)
+particular
+system would
+system would
+enhance his or
+be free from
+her job
+effort
+performance
+22
+Davis, F. D. (1989), "Perceived usefulness, perceived ease of use, and user acceptance of information technology", MIS Quarterly, 13 (3): 319–340, doi:10.2307/249008, JSTOR 249008
+
+NEW PAGE
+
+Technology Acceptance Model (TAM)
+23
+Technology Acceptance Model (TAM) from Davis, 1989.
+
+NEW PAGE
+
+Technology Acceptance Model (TAM)
+Dimension Question
+PU1 I can accomplish my [description of task] more quickly using [name of system]
+PU2 I can accomplish my [description of task] more easily using [name of system]
+PU3 [Name of system] enhances my effectiveness in utilizing [type of service]
+PU4 [Name of system] enhances my efficiency in utilizing [type of service]
+PU5 [Name of system] enables me to make better decisions in utilizing [type of service]
+PU6 Overall, I find [name of system] useful
+PEOU1 Learning to use [name of system] is easy for me
+PEOU2 It is easy to use [name of system] to accomplish my [task]
+PEOU3 Overall, I believe [name of system] is easy to use
+ATT1 In my opinion, it is desirable to use [name of system]
+ATT2 I think it is good for me to use [name of system]
+ATT3 Overall, my attitude towards [name of system] is favourable
+ITO1 I will use [name of system] on a regular basis in the future
+ITO2 I will frequently use [name of system] in the future
+ITO3 I will strongly recommend others to use [name of system]
+24
+
+NEW PAGE
+
+Technology Acceptance Model (TAM)
+Items are scored on a 7-point Likert scale
+•
+Statistics are then generated for each dimension
+•
+ Average
+ Standard Deviation
+1 2 3 4 5 6 7
+25
+
+NEW PAGE
+
+TAM 2 and
+TAM 3
+https://acceptancelab.com/technolo
+26
+gy-acceptance-model-tam
+
+NEW PAGE
+
+Benefits of TAM
+TAM 1
+•
+• Easy to understand
+• Has demonstrated a high level of
+predictiveness in many contexts
+TAM 2 and 3
+•
+• Takes external and social
+influences into consideration as
+well
+• Both models have been successfully
+applied to a wide variety of
+innovations
+27
+
+NEW PAGE
+
+Drawbacks of TAM
+TAM 1
+•
+• Originally developed for the adoption of
+IT at the workplace
+• Neglects the diverse needs of users,
+including subjective norms or social
+impact
+• The central constructs Perceived
+Usefulness (PU) and Perceived ease-of-use
+(PEOU) provide no information about how
+to make technology more useful and
+easier to use
+TAM 2 and 3
+•
+• Very complex due to the multitude of
+factors incorporated
+28
+
+NEW PAGE
+
+Time on Task
+Easy and understandable
+•
+making it used often
+Used to identify usability
+•
+problems
+Often combined with a
+•
+Think Aloud protocol
+Used in both formative and
+•
+summative evaluation
+29
+This Photoby Unknown Author is licensed under CC BY-NC
+
+NEW PAGE
+
+Time on Task
+Define your protocol so
+•
+that it is repeatable
+Three “events” to measure:
+•
+ Average task completion time
+ Mean time to failure
+ Average time on task
+30
+This Photoby Unknown Author is licensed under CC BY-NC
+
+NEW PAGE
+
+Time on Task – Analysis
+31
+
+NEW PAGE
+
+Time on Task – Analysis
+32
+Image source: https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/
+
+NEW PAGE
+
+Think Aloud
+Users verbalize their thoughts,
+•
+feelings, and opinions while
+interacting with a system
+Useful for capturing a wide range
+•
+of cognitive activities
+Two variations exist:
+•
+ Specific task
+ Open-ended
+One usability expert and a
+•
+minimum of 4 users should be
+observed
+33
+Image source: https://www.pinterest.com.au/pin/453245149972280324/
+
+NEW PAGE
+
+Think Aloud
+Clemmensen, Torkil, Morten Hertzum, Kasper Hornbæk, Qingxin Shi and Pradeep G. Yammiyavar.
+34
+“Cultural Cognition in the Thinking-Aloud Method for Usability Evaluation.” ICIS (2008).
+
+NEW PAGE
+
+Think Aloud Benefits
+Useful for understanding how the user
+•
+approaches the interface
+Rapid, high-quality, qualitative feedback
+•
+Broad range of detailed data
+•
+Errors can be clarified
+•
+Flexible
+•
+Meaningful dialogue
+•
+Versatile
+•
+Usually the majority of major issues can
+•
+be found
+35
+
+NEW PAGE
+
+Think Aloud Drawbacks
+Small sample size, so
+•
+can be difficult to know
+the relative importance
+of problems identified
+Talking aloud changes
+•
+the time spent on tasks
+Can be complex to
+•
+undertake both as an
+experimenter and
+participant
+36
+This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+Presenting Findings
+Only make claims that your data
+•
+can support
+Dependant on the audience,
+•
+purpose, data gathering and
+analysis undertaken
+Graphical representations are
+•
+always powerful
+Other techniques:
+•
+ Rigorous notations (e.g. UML) may be
+too rigid
+ Storyboards and personas to create
+scenarios and use cases
+37
+This Photoby Unknown Author is licensed under CC BY-NC
+
+NEW PAGE
+
+Summary
+There are many complex and socially-based
+•
+experiences in HCI that cannot be easily quantified
+or experimentally manipulated
+There are many evaluations methods for usability,
+•
+each uses a different approach and theory
+Need to understand the theory behind an approach to
+•
+understand what specifically the questionnaire is
+measuring
+Data analysis depends on the data gathered
+•
+45
+
+NEW PAGE
+
+Looking ahead…
+In our next session, we will look at Evaluating
+•
+Usability: “Expert” or “Non-User” Evaluations
+46
+
+NEW PAGE

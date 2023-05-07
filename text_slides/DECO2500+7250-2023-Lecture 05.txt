@@ -1,0 +1,1047 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@itee.uq.edu.au
+
+NEW PAGE
+
+05
+Cognition
+2
+
+NEW PAGE
+
+In this session…
+Prototyping (part 2)
+•
+Interaction Flow
+•
+Cognition
+•
+Distributed Cognition
+•
+Persuasive Design
+•
+ Nudging and Dark Patterns
+DECO7250 HCI Annotated Bibliography
+•
+3
+
+NEW PAGE
+
+The Fidelity Continuum
+4
+
+NEW PAGE
+
+The Fidelity Continuum
+“Design methods are not
+•
+mutually exclusive. Rather,
+each method exists on a
+continuum of fidelity,”
+uxBooth
+There’s a balance that needs
+•
+to be established between
+time, resources and fidelity
+The optimal level of fidelity
+•
+is the minimum amount of
+fidelity needed to get the job
+done
+5
+
+NEW PAGE
+
+Prototyping
+Sketches Higher Fidelity
+Format Paper Digital (no-code)
+Clarify initial mental model, as well as
+Identifying usability issues, requirements,
+Purpose quality and suitability of envisaged
+and interactivity
+solution
+Clear representation of UI layout and
+Interfaces Rough representation of interfaces.
+features (closer to the final solution)
+No colour unless strong contextual
+UI colour More realistic to the final solution
+need.
+Rough representation of how system
+Supports natural/ close-to-real interaction
+Interactions might work through moving paper
+throughout system, and key features.
+around.
+6
+
+NEW PAGE
+
+Prototyping
+Low-fidelity: quick and simple way of evolving
+•
+an initial idea
+ Goal is to outline the flow and to check the
+usefulness and usability of your proposed
+functionality
+ Paper prototypes
+• Click-through prototypes
+High-fidelity: More advanced, with their
+•
+aesthetics and functions and far closer to that of
+the final product
+• Created further along in the process once a team
+has a firm grasp of what they want the finished
+product to embody, using prototyping software
+• Generally used for usability testing with real users
+or to get final design approval from stakeholders
+• Digital, code-free prototypes
+• Coded prototypes
+7
+
+NEW PAGE
+
+Prototyping Software Tools
+Software Tools such as (Adobe XD, Figma, InVision
+•
+…etc. )
+Common Features:
+•
+ Create Interfaces
+ Vector drawing/graphic design tools
+ A way to manage ‘screens’
+ Create Interactions
+ A way to connect buttons and UI elements with other screens
+ Support Feedback
+ One or more ways to share or test the created prototype.
+8
+
+NEW PAGE
+
+Interaction Flow Diagrams
+Interaction (IX) Flow Diagrams provide a visualization that is
+•
+made up of all the screens of your system that are connected with
+lines and arrows to illustrate how the user interacts with the
+system
+Like the lines of a flowchart, the direction of the arrow following
+•
+the function of the shape indicates the flow of interaction
+If there are decisions in the system, a diamond symbol can be
+•
+added
+Each flow change from one task to another is explained through
+•
+separate text outside the frame
+The thoroughness of the IX Flow can be intimidating, but
+•
+communicating these interactions has many benefits:
+ Centralizes the flow, visual design, and interactions in one document
+ Can be exported as a PDF, JPEG, etc. so this document can be viewed
+on any desktop
+ Reduces guesswork and ambiguity on the developer’s part
+9
+ Reduces mistakes during development
+
+NEW PAGE
+
+Micro-Interactions
+“Contained product moments that
+•
+revolve around a single use case” Dan
+Saffer, Microinteractions: Designing
+with Details
+Invisible microinteractions can enhance
+•
+our user experience
+When microinteractions are well
+•
+designed, they help us navigate,
+instructs us on how to use technology,
+prevents us from making errors, and
+ultimately engages us and keeps us
+engaged
+Design isn’t just aesthetics. It’s a
+•
+marriage of form and function.
+10
+
+NEW PAGE
+
+Micro-Interactions
+User-initiated or Capabilities and The visual cues The repeatability
+system-initiated action constraints in the that tell the and lifecycle of a
+that starts the microinteraction; user what is microinteraction
+microinteraction what can and cannot happening
+be done
+11
+
+NEW PAGE
+
+12
+
+NEW PAGE
+
+The Reference Panel
+13
+
+NEW PAGE
+
+Wireframes/Prototype Screens
+14
+
+NEW PAGE
+
+Arrows, Lines, and Containers
+15
+
+NEW PAGE
+
+User
+System/App
+Interaction
+(computer) (human) Continuing to investigate
+the human side of our
+interaction ‘equation’
+focusing on how
+cognition influences that
+interaction
+
+NEW PAGE
+
+User
+System/App Cognition
+Interaction
+(human)
+(computer)
+Specific processes:
+- Attention
+- Perception & Recognition
+- Memory
+- Learning
+- Reading, speaking & listening
+- Problem solving, planning,
+reasoning & decision making
+
+NEW PAGE
+
+Cognition
+“The mental action or process of
+•
+acquiring knowledge and
+understanding through thought,
+experience, and the senses” – Oxford
+Dictionary
+HCI attempts to understand and
+•
+represent how humans and
+computing systems interact in
+transmitting information
+18
+Image source: https://pixabay.com/vectors/brain-cognition-design-art-2029391/ https://medium.com/@avimair/cognition-and-perception-in-hci-e134e3b4401f
+
+NEW PAGE
+
+Cognitive Load Theory
+Cognitive load = the amount of information that working
+•
+memory can hold at one time
+Cognitive Load Theory, developed by Sweller (1988),
+•
+builds on the information processing model (below),
+developed by Atkinson and Shiffrin (1968)
+Sweller, J., 1988. Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), pp.257-285.
+https://doi.org/10.1207/s15516709cog1202_4
+Atkinson, R.C. and Shiffrin, R.M., 1968. Human memory: A proposed system and its control processes. In Psychology of learning and
+19
+motivation (Vol. 2, pp. 89-195). Academic press. https://doi.org/10.1016/S0079-7421(08)60422-3
+
+NEW PAGE
+
+Information Processing Model
+20
+
+NEW PAGE
+
+Information Processing Model: Memory
+We encode, store and then retrieve knowledge
+•
+We remember what we have attended to
+•
+Context is an important cue to memory retrieval
+•
+We recognize things better than we recall things
+•
+Atkinson, R.C. and Shiffrin, R.M., 1968. Human memory: A proposed system and its control processes. In Psychology of learning and
+21
+motivation (Vol. 2, pp. 89-195). Academic press. https://doi.org/10.1016/S0079-7421(08)60422-3
+
+NEW PAGE
+
+Sensation and Perception
+Sensation = capacity to have a physical feeling or
+•
+awareness by receiving information from environmental
+stimuli through our senses
+Perception = becoming aware of, organizing, and
+•
+interpreting this information so that it makes sense to us
+22
+
+NEW PAGE
+
+Perception and Recognition
+Perception is the sensory
+•
+experience of the world
+Involves both recognizing
+•
+environmental stimuli and
+actions in response to these
+stimuli
+It is also necessary for the
+•
+brain to categorize and
+interpret what you are sensing
+Recognition is the ability to
+•
+interpret and give meaning to
+the object
+23
+This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+24
+
+NEW PAGE
+
+Memory
+Sensory
+• Temporary storage allows
+recall through senses
+Short-term
+(working)
+Long-term. E.g.
+like a hard drive
+• Short-term storage.
+E.g. RAM on a
+• Explicit
+computer
+• Implicit
+• Filters information to
+decide what to keep
+25
+
+NEW PAGE
+
+Memory
+Atkinson, R.C. and Shiffrin, R.M., 1968. Human memory: A proposed system and its control processes. In Psychology of learning and
+26
+motivation (Vol. 2, pp. 89-195). Academic press. https://doi.org/10.1016/S0079-7421(08)60422-3
+
+NEW PAGE
+
+Memory
+Technology has changed
+•
+the way human memory
+works
+Can you remember a time
+•
+before the internet existed?
+27
+Image source: https://www.quora.com/What-was-life-like-before-Google
+
+NEW PAGE
+
+Memory
+Technology has changed the way The Google Effect (digital amnesia) is A study by Sparrow et al. (2011) found
+human memory works a phenomenon whereby we forget that participants that thought that
+information if it can easily be found information would be stored on a
+online computer were less likely to remember
+the information
+Sparrow, B., Liu, J. and Wegner, D.M., 2011. Google effects on memory: Cognitive consequences of having information at our
+28
+fingertips. Science, 333 (6043), pp.776-778. https://doi.org/10.1126/science.1207745
+
+NEW PAGE
+
+Memory Aids
+29
+Image sources: http://cabezalab.org/science-magazine-and-sensecam/ http://sensecam.ucsd.edu/studies.php http://photos1.blogger.com/x/blogger/3494/4188/1600/288937/MLB-timeline-text%2011-14-2003.jpg
+
+NEW PAGE
+
+Lifelogging
+30
+
+NEW PAGE
+
+StephenFairclough andChelsea Dobbins, “Personal informatics and negative emotions during commuter driving: Effects of data visualization on cardiovascular reactivity & mood,” 31
+InternationalJournalofHuman-ComputerStudies,vol.144,no.March,p.102499,2020, doi:10.1016/j.ijhcs.2020.102499
+
+NEW PAGE
+
+Cognition
+Attention
+•Mental process of
+selecting certain
+environmental
+information to
+focus on (cocktail
+party effect)
+Cognitive
+Information
+Processing
+Chunking
+Organisation
+•Cognitive ability
+•Put information
+to group
+into a
+information
+meaningful order
+together
+32
+
+NEW PAGE
+
+Cognitive Overload
+A situation where your are given
+•
+too much information at once (or
+too many simultaneous tasks)
+resulting in not being able to
+perform or process the information
+A feeling of being saturated and
+•
+you can’t take in any more
+information
+33
+
+NEW PAGE
+
+Cognitive Load Theory
+34
+
+NEW PAGE
+
+Implications for Design
+Advances in computer technologies An understanding of cognitive load
+have improved people’s multi- greatly benefits
+tasking performance but human designers/developers to gauge when
+attention is a finite resource 1 and how to best communicate
+information 1
+1 Haapalainen, E., Kim, S., Forlizzi, J.F., Dey, A.K., 2010. Psycho-Physiological Measures for Assessing Cognitive Load, in: Proceedings
+of the 2010 ACM Conference on Ubiquitous Computing (UbiComp’10). ACM Press, New York, New York, USA, pp. 301–310.
+35
+https://doi.org/10.1145/1864349.1864395
+
+NEW PAGE
+
+Implications for Design
+Presenting information at the wrong time can drastically increase
+•
+one’s cognitive demands, can have negative impacts on task
+performance and emotional state, and in extreme cases, even be life
+threatening
+White space and borders are visual ways to group information to
+•
+make it easier to locate and perceive items
+36
+
+NEW PAGE
+
+Implications for Design
+37
+
+NEW PAGE
+
+Implications for Design
+1
+Which one reduces
+the cognitive load?
+2
+38
+
+NEW PAGE
+
+Learning/Training
+https://www.youtube.com/watch?v=K
+AlJ1AuGFDg
+https://www.youtube.com/watch?v=bqra7wsl
+wCM
+39
+Image source: https://www.wareable.com/vr/how-vr-is-training-the-perfect-soldier-1757 Image source: https://uploadvr.com/osso-vr-redefining-way-surgeons-train-operations/
+
+NEW PAGE
+
+Learning/Training
+40
+Image sources: https://www.ap.be/en/research/ai-driven-vr-training-in-adaptive-user-context https://www.boeing.com/features/innovation-quarterly/nov2017/feature-technical-cobots.page
+https://money.cnn.com/2015/04/29/technology/virtual-reality-therapy-phobias/
+
+NEW PAGE
+
+Learning
+Design implications for learning include:
+•
+ Interfaces should encourage exploration
+ Whilst also constraining and guiding users to select
+appropriate actions when they are initially learning
+ Particular representations and abstract concepts should be
+dynamically linked to allow the learning of complex
+material
+41
+Image source: This Photoby Unknown Author is licensed under CC BY-SA-NC
+
+NEW PAGE
+
+Reading, Speaking and Listening
+The easiness that people can read, listen, or speak is
+•
+different and depends on the person, task, and
+context
+Technology can support this through:
+•
+ Interactive books and web-based materials
+ Speech-recognition systems
+ Speech-output systems
+ Auditory navigation and tactile diagrams
+42
+Image source: http://www.perkinselearning.org/scout/blog/tactile-graphics-students-who-are-blind-or-visually-impaired
+
+NEW PAGE
+
+Problem Solving and Decision Making
+Design implications include:
+•
+ Provide additional hidden
+information that is easily
+accessible for those who want to
+go deeper
+ Simple and memorable functions
+on the interface can support
+rapid decision making and
+planning that takes place while
+on the move
+43
+Image source: https://timedotcom.files.wordpress.com/2015/02/158329781.jpg
+
+NEW PAGE
+
+Cognitive Diversity
+Designing for cognitive diversity is the
+•
+foundation for the future of work, regardless
+of industry
+As technology expands, we must consider
+•
+what it means to create experiences that
+adapt to people and context, and create
+along the emotional and functional spectrum
+ What kind and what level of cognitive demands
+do our experiences place on our users?
+ Are there some types of cognitive demands that
+are especially heavy, and if so do we support
+different needs around capabilities like focus
+and attention?
+ Do we support many ways for people to be at
+their best, or just the ones that mirror our own
+needs?
+44
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Cognitive Exclusion
+Despite good intentions, cognitive exclusion results from
+•
+poor understanding of science or broad assumptions
+about people with certain medical conditions
+ System creators shouldn’t attempt to diagnose medical
+conditions
+Addressing cognition has huge potential for innovation
+•
+in every industry
+A critical step in moving beyond an era of technology
+•
+that forced people to adapt to products—and toward a
+future where technology adapts to people
+45
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Inclusive Design
+“It’s not about making technology more
+human-like. It’s about designing technology
+to embrace the things that make us human” Microsoft
+Inclusive Design for Cognition Guidebook
+46
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Cognitive Exclusion Guidelines
+•For any task to be
+successful,
+Motivation motivation must
+equal or surpass
+cognitive load
+Identify
+cognitive
+demands
+•With cognitive
+Co-create
+diversity in mind
+47
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Motivation
+Human motivation not features
+•
+Avoid a collection of disconnected features
+•
+with no link between tasks, goals, and
+motivations
+Components should support the same set of
+•
+higher-level goals and motivations for the
+entire experience to feel coherent and in
+service to your needs
+When they aren’t aligned, tasks can seem
+•
+like pointless distractions from true
+motivations
+48
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Cognitive Demands
+Learning Focus Decision-making
+•What does it take to learn something •Does the experience consider the cost •Are the most critical factors and
+new? of interruption and enable consequences clear for all choices?
+collaboration and task completion? •If there are many small decisions, is it
+•What do people do to adjust between clear what they build to?
+different levels of focus?
+•What is the role of distractions and
+what methods do people use to filter
+them out?
+Recall Communication
+•What can technology learn from how •How can technology understand and
+people create systems for placing, adapt to a person’s communication
+remembering, and finding what they preferences?
+need?
+•Does a task require people to retain
+large amounts of information, and if
+so, what tools enable recall?
+49
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Co-Create
+Include people who share similar motivations to co-
+•
+create solutions
+Consider situational context
+•
+Be inspired by human interactions – it’s always a
+•
+choice to let either people or technology lead an
+interaction
+Designing technology means teaching it how to
+•
+behave appropriately as it interacts with people and
+requires us to understand people
+50
+https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf
+
+NEW PAGE
+
+Model Human Processor (MHP)
+Cognitive modelling method and design
+•
+tool used to calculate how long it takes
+to perform a certain task to create
+effective user interfaces
+Cognitive modelling methods can
+•
+evaluate the usability of a system using
+experimental times to calculate cognitive
+and motor processing time.
+Allows a system designer to predict the
+•
+performance with respect to time it
+takes a person to complete a task
+without performing experiments
+Card, S.K; Moran, T. P; and Newell, A. The Model Human Processor: An Engineering Model of Human Performance. In K. R. Boff, L.
+Kaufman, & J. P. Thomas (Eds.), Handbook of Perception and Human Performance. Vol. 2: Cognitive Processes and Performance,
+51
+1986, pages 1–35
+
+NEW PAGE
+
+Model Human Processor (MHP)
+Supports recognition rather than recall
+•
+Reduces the load on short term (or
+•
+working) memory
+Supports the production of chunks of
+•
+items to facilitate memory
+Frequent activities become automatic
+•
+and do not require conscious attention
+For highly practised responses,
+•
+requiring a confirmation of the response
+will not necessarily reduce errors
+Card, S.K; Moran, T. P; and Newell, A. The Model Human Processor: An Engineering Model of Human Performance. In K. R. Boff, L.
+Kaufman, & J. P. Thomas (Eds.), Handbook of Perception and Human Performance. Vol. 2: Cognitive Processes and Performance,
+52
+1986, pages 1–35
+
+NEW PAGE
+
+Model Human Processor (MHP)
+The user works out
+A pop up message
+the response that is
+appears on the
+needed (cognitive
+screen (perception).
+processing).
+The mouse is A motor response is
+moved and a initiated
+button is clicked (response).
+53
+
+NEW PAGE
+
+Model Human Processor (MHP)
+Perceptual Processor
+•
+ Consists of sensors and associated buffer
+memories
+ Takes input from the eyes and ears and
+drops it into two temporary memories
+(Visual Image Store and Auditory Image
+Store) to hold the output of the sensory
+system while it is being symbolically
+coded
+ A visual or audible stimulus appears
+ A pop up message appears on the screen
+(perception)
+Card, S.K; Moran, T. P; and Newell, A. The Model Human Processor: An Engineering Model of Human Performance. In K. R. Boff, L.
+Kaufman, & J. P. Thomas (Eds.), Handbook of Perception and Human Performance. Vol. 2: Cognitive Processes and Performance,
+54
+1986, pages 1–35
+
+NEW PAGE
+
+Model Human Processor (MHP)
+Cognitive Processor
+•
+ Operates on data from all the memories
+ Receives symbolically coded information
+from the sensory image store in its
+Working memory
+ Uses previously stored information
+stored in Long term memory to make
+decision about how to respond
+ The physical attributes of the stimulus
+are decoded
+ The user works out the response that is
+needed (cognitive processing)
+Card, S.K; Moran, T. P; and Newell, A. The Model Human Processor: An Engineering Model of Human Performance. In K. R. Boff, L.
+Kaufman, & J. P. Thomas (Eds.), Handbook of Perception and Human Performance. Vol. 2: Cognitive Processes and Performance,
+55
+1986, pages 1–35
+
+NEW PAGE
+
+Model Human Processor (MHP)
+Motor Processor
+•
+ Takes instructions from the working
+memory and runs those instructions
+on the muscles
+ Carries out the specified response
+ The mouse is moved and a button is
+clicked
+Card, S.K; Moran, T. P; and Newell, A. The Model Human Processor: An Engineering Model of Human Performance. In K. R. Boff, L.
+Kaufman, & J. P. Thomas (Eds.), Handbook of Perception and Human Performance. Vol. 2: Cognitive Processes and Performance,
+56
+1986, pages 1–35
+
+NEW PAGE
+
+Processors in the MHP
+Perceptua
+Cognitive Motor
+l
+processor processor
+processor
+~ 70ms ~ 70ms
+~ 100ms
+[30 – [25 –
+[50 –
+100ms] 170ms]
+200ms]
+57
+
+NEW PAGE
+
+Reaction Times
+58
+Image source: https://cio-wiki.org/wiki/Model_Human_Processor_(MHP)
+
+NEW PAGE
+
+Distributed Cognition
+59
+Image source: https://www.pinterest.com.au/pin/98164466855999657/
+
+NEW PAGE
+
+Distributed Cognition
+A process in which cognitive resources are
+•
+shared socially in order to extend individual
+cognitive resources or to accomplish
+something that an individual agent could not
+achieve alone. (Lehtinen et al., 1999).
+Describes how cognitive phenomena works
+•
+across individuals, artefacts, and internal and
+external representations (Hutchins, 1995)
+Provides an effective conceptual framework
+•
+for understanding human-computer
+interaction
+Enables us to understand what humans can
+•
+achieve and how artefacts, tools, and socio-
+technical environments can be designed and
+evaluated to empower humans beings and to
+change tasks (Fischer, 2003)
+60
+Image source: https://jareddonovan.com/teaching/hci/distributed-cognition/index.html
+
+NEW PAGE
+
+Distributed Cognition
+61
+Preece, J., Rogers, Y., & Sharp, H. “Interaction design beyond human-computer interaction” (Fourth ed.)
+
+NEW PAGE
+
+Persuasive Design
+Human behaviour is influenced through the
+•
+characteristics of a product or service
+The design of an interface can persuade and
+•
+even change a users’ attitudes and
+behaviours
+Persuasive technology can be used to
+•
+purposefully apply psychological principles
+of persuasion into interactive media, in the
+hope of changing users’ attitudes and
+behaviour
+ E-Commerce
+ Motivating health behaviour
+perCues prototype for mobile
+ Video games
+devices to persuade people to
+ Public transport use public mass transport
+62
+Fallman D. (2007), “Persuade Into What? Why Human-Computer Interaction Needs a Philosophy of Technology”. In International Conference on Persuasive Technology. Lecture Notes in
+ComputerScience,vol4744.Springer,Berlin,Heidelberg.DOI:https://doi.org/10.1007/978-3-540-77006-0_35
+
+NEW PAGE
+
+Nudging and Dark Patterns
+Dark patterns are deceptive aspects of an
+•
+interface that have been designed carefully in
+order to deliberately trick people
+ E.g. signing up for email alerts
+ Smaller text, different colours, etc.
+Dark patterns often go undetected by the
+•
+average person as they play upon cognitive
+biases that we all have without realizing it
+Nudging describes how users can be led
+•
+toward making certain choices by appealing to
+psychological biases
+ E.g. smaller short-term rewards over long-term
+gains
+@darkpatterns
+Often a website’s design nudges users towards
+•
+a specific option (usually the more expensive)
+and distracts them from other options (e.g.
+standard) 63
+
+NEW PAGE
+
+Nudging and Dark Patterns
+64
+C. Gray et. al. (2018) “The Dark (Patterns) Side of UX Design” in Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. Paper No. 534
+
+NEW PAGE
+
+Nudging and Dark Patterns
+65
+Image source: https://medium.com/@sally2326/ux-ui-dark-patterns-dont-fall-for-them-439dba2f7448
+
+NEW PAGE
+
+Nudging and Dark Patterns
+66
+
+NEW PAGE
+
+Nudging and Dark Patterns
+2018 report found companies used default settings and
+•
+dark patterns, techniques, and features of interface
+design to manipulate and nudge users towards intrusive
+privacy options
+67
+https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf
+
+NEW PAGE
+
+Facebook’s privacy options process:
+Green = “easy” route
+Orange = extra clicks to manage settings
+Yellow = delete account routes
+Grey = route back to main green route
+Blue = extra screens when not choosing
+to accept
+68
+https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf
+
+NEW PAGE
+
+When Dark Patterns Go Wrong
+Epic Games will pay a total of $520m in penalties
+•
+and refunds for using "dark patterns" to trick players
+into making unwanted or unauthorized charges
+The Federal Trade Commission (FTC) made the
+•
+following points about the investigation:
+ “Epic used privacy-invasive default settings and deceptive
+interfaces that tricked Fortnite users, including
+teenagers and children,”
+ “Fortnite’s counterintuitive, inconsistent, and confusing
+button configuration led players to incur unwanted
+charges based on the press of a single button”
+ “Players could, for example, be charged while trying to
+wake the game from sleep mode, while the game was in a
+loading screen, or by pressing a nearby button when
+simply trying to preview an item”
+ “These tactics led to hundreds of millions of dollars in
+unauthorized charges for consumers”
+69
+https://www.theguardian.com/games/2022/dec/19/fortnite-epic-games-pay-fine-ftc-privacy-billing
+
+NEW PAGE
+
+Are Dark Patterns Illegal?
+The use of dark patterns is not by default illegal
+•
+ It depends how the dark pattern is applied
+Online businesses need to be persuasive to consumers (to a degree), but
+•
+dark patterns risk breaching both data protection and consumer laws
+and so should be used with caution
+“More than eight in 10 Australians (83%) have lost money, lost control
+•
+of their data or have been manipulated by a business to make a choice
+that isn't in their interest” Consumer Policy Research Centre (CPRC)
+In Australia some dark patterns may be in breach of consumer
+•
+protections, including (choice.com.au):
+• Misleading or deceptive conduct if businesses create a misleading or
+deceptive impression about their product or service
+• Unfair contract terms where there is limited opportunity to negotiate with a
+business and where a term may pose significant imbalance or detriment, or
+where there is a lack of transparency
+• Patterns that breach privacy protections under the Privacy Act 1988 to
+protect the privacy of personal information.
+70
+
+NEW PAGE
+
+Is Persuasive Design Ethical?
+Persuasion is unethical if it relies on deception
+•
+The majority of persuasive design is in the grey zone
+•
+Designers have a responsibility to select and apply
+•
+ethically-grounded strategies in their practice
+There is a fine line between influencing behaviour
+•
+and tricking people
+71
+Image source: https://americaexplained.wordpress.com/2011/02/27/walking-the-fine-line/
+
+NEW PAGE
+
+Postgrads ONLY - DECO7250
+Individual HCI Annotated Read the brief You will need to think about
+Bibliography coursework spec is up choosing ten papers that have
+on Blackboard been sourced from at least four
+different sessions from the
+Proceedings of the 2022 CHI
+Conference on Human Factors in
+Computing Systems
+72
+
+NEW PAGE
+
+Summary
+Cognition involves several processes, including memory,
+•
+perception and learning
+The way an interface is designed can greatly affect how well
+•
+users can perceive, attend, learn and remember how to do their
+tasks
+Theoretical frameworks provide ways of understanding how
+•
+and why people interact with products
+Cognition is distributed among individuals, the environment,
+•
+and various artefacts
+When designing for new technology it is important to
+•
+determine its acceptance as new interaction contexts are
+emerging, which open new challenges to the user (cognitive
+limitations)
+73
+
+NEW PAGE
+
+Next Time…
+In our next session, we will look at Interaction -
+•
+Usability and Interfaces
+74
+
+NEW PAGE

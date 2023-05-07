@@ -1,0 +1,643 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@itee.uq.edu.au
+
+NEW PAGE
+
+01
+Course Overview and Introduction
+to HCI
+2
+
+NEW PAGE
+
+In this session…
+Course introduction
+•
+Introduction to Human-Computer Interaction (HCI)
+•
+Background to the Interaction Design Process
+•
+3
+
+NEW PAGE
+
+Course Overview
+The aims of this course are to:
+•
+ Introduce the theory and methods
+underlying the practice of Human-
+Computer Interaction
+ Gain experience in researching user needs
+and goals
+ Gain experience in developing
+appropriately targeted design solutions to
+the needs and goals that have been
+identified
+4
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Teaching Team
+Tutors
+Lecturers •
+•
+ Julia Drugova
+ Dr Chelsea Dobbins, Senior
+ Amraj Singh
+Lecturer, School of ITEE
+ Moya Baldry
+ Dr Maxime Cordeil, Senior
+ Rostislav Gusev
+Lecturer, School of ITEE
+ Jade Taylan
+ Shiva Kamalzadeh
+ Summer Yang
+ Sanya Ahmad
+ Shivam Shipankar
+ Harland Jensen
+ Maryam Khan
+5
+This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+Studio Schedule
+Cohort Studio Day Time - Start Time - End Tutors
+STU01 Tuesday 8:00 AM 10:00 AM Amraj Maryam
+STU02 Tuesday 12:00 PM 2:00 PM Julia Shivam
+DECO2500 STU03 Tuesday 4:00 PM 6:00 PM Amraj Jade
+(internal/
+STU04 Thursday 8:00 AM 10:00 AM Rosti Harland
+external)
+STU05
+Thursday 2:00 PM 4:00 PM Moya Sanya
+STU01
+(external)
+STU01 Friday 8:00 AM 10:00 AM Julia Shiva
+DECO7250
+STU02
+(internal/
+external) Friday 2:00 PM 4:00 PM Moya Summer Shiva
+STU01
+6
+(external)
+
+NEW PAGE
+
+Cohort Activity
+Head to menti.com and enter code: 5205 6025
+7
+
+NEW PAGE
+
+Expectations
+Attend and participate in lectures and studios
+•
+Complete reading and take your own notes
+•
+Understand the fundamentals by keeping up with the lectures/studios
+•
+Attend (or at the very least watch) the lecture prior to attending your
+•
+studio
+Complete all assessments on time
+•
+All communication (e.g., email/ Ed Discussion / SECaTs) must be
+•
+professional, courteous and polite
+The lecture will start at 4pm. Please arrive on time
+•
+Understand what constitutes academic misconduct and don’t risk
+•
+getting on the academic misconduct register
+Please let the teaching team know of any issues early and propose a
+•
+solution if possible
+Please do not make any recordings of your own. Studio sessions will
+•
+not be recorded. 8
+Image source: https://www.thrivingtalents.com/the-importance-of-setting-expectations/
+
+NEW PAGE
+
+Student Access Plans (SAP) and
+Exam Adjustments (EA)
+It is important you arrange your SAP or EA as soon as possible. Aim for the first four weeks of
+semester.
+Who? What? How?
+Students who: Student Access Plans: Meet with a Student Adviser
+• have a disability • extension to assignments • visit Student Central
+• are neurodivergent (i.e. ADHD/Autism) • occasional absences o Building 42 St Lucia
+• have a mental health condition • alternative assessment formats o Google: UQ Student Adviser
+• have a medical condition • placements, pracs, and lab adjustments • contact Student Services
+• have an illness or injury • accessible formatting o student.services@uq.edu.au
+• have caring responsibilities • assistive technology o (07) 3365 1704
+Or: Exam Adjustments: Get in touch as soon as possible if you
+need support for your study.
+• are pregnant • additional examination working time
+• are experiencing exceptional • rest breaks
+Support can be provided throughout semester.
+circumstances • use of a computer or a writer
+• are an elite athlete • ergonomic furniture
+• have commitments to religious • food, drink, or medication
+observance • a separate room
+• are engaged in defence service
+Other adjustments based on your needs
+9
+
+NEW PAGE
+
+Expectations
+10
+This Photoby Unknown Author is licensed under CC BY-SA This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+How to get the most out of each session
+Come prepared
+•
+Make notes
+•
+ Either handwritten or add electronic comments
+to the PDF lecture notes
+Get involved
+•
+Use the studio to apply the things you have
+•
+learned during the lecture
+Don’t be afraid to ask questions and seek
+•
+clarification
+There is no such thing as a stupid question!
+•
+This Photoby Unknown Author is licensed under CC BY-NC-ND
+Email etiquette
+•
+11
+
+NEW PAGE
+
+How to keep in touch/ask questions
+We will be using Ed Discussion for Q and A
+•
+Anyone can answer questions, and keeping
+•
+things open stops repeat questions
+Private questions will almost always be
+•
+answered publicly
+Don’t expect responses from teaching staff in
+•
+the middle of the night/weekends we do
+observe office hours.
+For official messages and/or sensitive/private
+•
+matters, please use the course mailbox:
+deco2500@itee.uq.edu.au
+12
+
+NEW PAGE
+
+Activities and Assessment
+2hr lecture and 2hr studio per week
+•
+In-Class Quiz Interface Design Annotated
+(I) Inquiry and Proposal (G) Bibliography
+Critique (I) (I)
+•20% •UG 40% / PG:
+30%
+•UG 40% / PG: •PG: 20%
+30%
+13
+This Photoby Unknown Author is licensed under CC BY-NC-ND
+
+NEW PAGE
+
+Provisional Plan*
+Teaching Week Lecture Date Lecture Number Studio Number Lecture Topic
+1 20/02/2023 1 1 Course Overview and Introduction to HCI
+2 27/02/2023 2 2 Interaction Fundamentals
+3 06/03/2023 3 3 Mental Models and Conceptual Design
+4 13/03/2023 4 4 Interaction Paradigms and Modes
+5 20/03/2023 5 5 Cognition
+6 27/03/2023 6 6 Interaction - Usability and Interfaces
+7 03/04/2023 7 - UX Goals and Metrics
+- - - Mid-Semester Break
+8 17/04/2023 8 7 User-Based Evaluations and Data Analysis
+Evaluating Usability: “Expert” or “Non-User”
+9 24/04/2023 9 -
+Evaluations
+10 01/05/2023 - 8 Monday 01 May is a public holiday. No lecture
+11 08/05/2023 10 9 In-class Quiz
+12 15/05/2023 11 10 Tying It All Together
+13 22/05/2023 12 11 Human-Centred AI
+Revision Week
+- EXAM PERIOD
+- EXAM PERIOD
+14
+*may be subject to change
+
+NEW PAGE
+
+Academic Integrity
+Ignorance can result in plagiarism/misconduct through:
+•
+ Working too closely with other students
+ Failing to reference properly
+ Submitting the same work to multiple courses
+ Ignorance is not a defense!
+Solutions:
+•
+ Complete your assignments separately to other people
+ If quoting directly use “ ” and always reference
+ Check with the teaching team and/or UQ guidelines if unsure
+ Get familiar with Academic Integrity at UQ
+Don’t risk getting on the academic misconduct register
+•
+ITEE expects all students to know the following:
+•
+ https://www.uq.edu.au/integrity/
+Image source: https://www.pinterest.com.au/wassef87/academic-dishonesty-and-integrity/
+ https://web.library.uq.edu.au/node/4221/1#1
+ https://my.uq.edu.au/information-and-services/manage-my-program/student-integrity-and-
+conduct/academic-integrity-and-student-conduct
+ http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct
+15
+
+NEW PAGE
+
+Academic Integrity
+Acting with the values of honesty, trust, fairness,
+•
+respect and responsibility in learning, teaching and
+research.
+(Universities Australia, 2017)
+Academic Professional Personal
+= =
+integrity integrity integrity
+16
+Institute for Teaching and Learning Innovation
+
+NEW PAGE
+
+Benefits of Academic Integrity
+High standards of academic integrity protect you, the University
+•
+and the community:
+ You have the pride and confidence that comes with knowing you have
+developed your knowledge and learnt new skills
+ You understand how new knowledge is created and how to apply that
+knowledge to your studies and future career
+ You model the practices of integrity we want for society
+ The community has faith in the value of a UQ qualification
+ Your employer, your clients and your patients know you are knowledgeable
+and skilled
+17
+Institute for Teaching and Learning Innovation
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Types of Academic Misconduct
+Staff know that cheating occurs and will be looking
+•
+for:
+Plagiarism Collusion
+Falsification Fabrication
+Impersonation Contract cheating
+18
+Institute for Teaching and Learning Innovation
+
+NEW PAGE
+
+Generative Artificial Intelligence (AI)
+Generative AI tools create content based on a text
+•
+prompt, including images, code and text
+Recent releases (particularly ChatGPT released
+•
+in late Nov 2022) have made significant advances
+in the quality of text-based content produced
+Generative AI are now powerful tools but have a
+•
+range of limitations. The ChatGPT system
+acknowledges it:
+ May occasionally generate incorrect information
+ May occasionally produce harmful instructions or
+biased content
+ Limited knowledge of world and events after 2021
+At UQ, the assessment you submit must be
+•
+your work
+19
+https://www.linkedin.com/pulse/chatgpt-consistently-fails-most-parts-assessment-tasks-jason-m-lodge/
+
+NEW PAGE
+
+Generative AI in Assessments
+Use of generative AI in any assessment is not
+•
+permitted.
+You will not be permitted to use
+•
+generative AI tools in any
+assessment task in this course
+ Check what is appropriate for each
+course you are enrolled in
+Attempted use of AI in these
+•
+tasks may constitute student
+misconduct under the (PPL
+3.60.01) Student Code of
+Conduct.
+20
+Adapted from Institute for Teaching and Learning Innovation (ITaLI)
+
+NEW PAGE
+
+OK? Let’s begin…
+21
+
+NEW PAGE
+
+Introduction to HCI
+22
+
+NEW PAGE
+
+What is HCI?
+Focused on developing first-hand understanding of users
+•
+ Study of the interaction between humans (users) and computers
+Definition of HCI is quite broad
+•
+ Covers almost all forms of information technology (IT)
+HCI is the study of designing computers and machines so that
+•
+they best serve their users (i.e. humans)
+23
+
+NEW PAGE
+
+What is HCI?
+Closely related to the field of User Experience (UX) design
+•
+The user interface is where the interaction between humans and
+•
+computers occurs
+ Includes both software and hardware
+HCI investigates, develops, and harnesses new areas of possibility,
+•
+not just as technologies or designs, as means for enhancing human
+activity and experience
+24
+
+NEW PAGE
+
+Why is HCI important?
+HCI is the study of how computers and machines can
+•
+better help us
+Invaluable in making sure that computers are
+•
+designed for successful and intuitive human use
+25
+
+NEW PAGE
+
+History of HCI
+Windows 1.01.
+1970s 1980s 1990s 2000s 2010s 2020s+
+• Personal • Graphical • The • Mobile • Wearable • AR/VR,
+Computer User Internet Computing Computing Earables,
+Interfaces etc.
+Image sources: https://bobscomputerserviceandrepair.com/computer-history/1970s-2/ http://toastytech.com/guis/win101.html https://www.telegraph.co.uk/technology/2016/06/08/how-everyday-gadgets-looked-
+26
+when-they-were-first-invented/googles-beta-homepage/ https://www.amazon.com/Nokia-000070169-3310-Blue/dp/B00005KBGR https://www.jewellermagazine.com/Article/10291/Apple-Watch-speculation-10-
+years-on-from-the-first-predictions https://mixed-news.com/en/the-google-glass-flop-and-what-can-be-learned-from-it/ https://www.vesta-go.com/advocacy-ugc/2020s-trend-2-experience-is-the-new-content/
+
+NEW PAGE
+
+Introduction to HCI
+Computer
+Science
+Human-
+Computer
+Interaction
+Human
+Cognitive
+Factors
+Science
+Engineering
+27
+B. K. Chakraborty, D. Sarma, M. K. Bhuyan and K. F. MacDorman, "Review of constraints on vision-based gesture recognition for human–computer interaction," in IET
+Computer Vision, vol. 12, no. 1, pp. 3-15, 2 2018. Doi: 10.1049/iet-cvi.2017.0052
+
+NEW PAGE
+
+Goals of HCI
+Produce usable, safe and functional
+•
+systems
+To produce systems with good
+•
+usability, developers must attempt
+to:
+ Understand the factors that determine
+how people use technology
+ Develop tools and techniques to enable
+building suitable systems
+ Achieve efficient, effective, and safe
+interaction
+ Put people first
+28
+This Photoby Unknown Author is licensed under CC BY-SA-NC
+
+NEW PAGE
+
+HCI and SE Development Approaches
+X. Ferre and N. Medinilla, “How a Human-Centered Approach Impacts Software Development,” in International Conference on Human-Computer Interaction: Interaction 29
+Designand Usability,pp 68-77,2007.Doi:10.1007/978-3-540-73105-4_8
+
+NEW PAGE
+
+HCI and SE Development Approaches
+Software
+Engineering
+HCI • Study of designing,
+developing and
+•Deals with how people
+preserving software
+use and are affected by
+computers • Methods and tools
+for general software
+•Draws on knowledge
+and skills from development based
+psychology, sociology on engineering
+and computer science
+principles and roots
+• Concerned with "how in computer science
+people use software"
+• Concerned with "how
+software is
+constructed"
+Preece, J. and Rombach, H.D., 1994. A taxonomy for combining software engineering and human-computer interaction measurement approaches: towards a common 30
+framework.International journalof human-computerstudies,41(4),pp.553-583.
+
+NEW PAGE
+
+Beyond the Desktop…
+Entertainment
+/ Games
+Earable Mobile
+Computing Technology
+Tangible
+Collaborative
+Computing/
+HCI Virtual
+Embodied
+Environments
+Interaction
+Augmented/
+Wearable
+Virtual/ Mixed
+Computing
+Reality
+Ambient Ubiquitous/
+Computing / Pervasive
+IoT Computing
+31
+
+NEW PAGE
+
+Interaction Design
+32
+
+NEW PAGE
+
+33
+
+NEW PAGE
+
+Interaction Design
+Interaction design is the design
+•
+of the interaction between
+users and products
+Aim is to create products that
+•
+enable the user to achieve their
+goals in the best way possible
+Users are involved throughout
+•
+the development of the project
+Design is about balancing
+•
+trade offs and generating
+alternative solutions
+ Cost vs. effectiveness
+ Time vs. budget
+34
+
+NEW PAGE
+
+The Interaction Design Process
+• Understand what is needed
+Requirements
+• Interview, ethnography
+• Research, scenarios, task analysis
+Analysis
+• Create wireframes, flows, etc.
+Design
+• Guideline principles
+• Refine design
+Prototyping
+• Evaluation heuristics
+• Build and deploy the system
+Implementation
+• Documentation
+• Determine usability and acceptability with
+Evaluate
+real users
+35
+
+NEW PAGE
+
+Interaction Design Lifecycle Model
+36
+Preece, J., Rogers, Y., & Sharp, H. “Interaction design beyond human-computer interaction” (Fourth ed.)
+
+NEW PAGE
+
+The Importance of Involving Users
+Is vital in order to better understand the users’
+•
+requirements and to manage expectations
+Users are involved in the design process as active
+•
+stakeholders
+Errors are corrected earlier
+•
+Higher user acceptance
+•
+Adopting a user-centred approach
+•
+ Early focus on users and tasks
+ Empirical measurements – reactions/performance to scenarios
+ Iterative design – problems are identified, fixed and tested
+37
+
+NEW PAGE
+
+Interaction Design Issues
+Understanding and supporting human activity away
+•
+from the workplace
+Implicit input
+•
+Output on different scales
+•
+ Inch, foot, yard
+Integrated digital and physical worlds
+•
+Understanding, representing, and developing
+•
+technology that supports context
+38
+
+NEW PAGE
+
+Summary
+Technology is increasingly embedded in the world around us and is
+•
+still driving the agenda
+Interactive technology is more than just windows, a keyboard and
+•
+mouse
+Pervasive/ubiquitous computing implies a shift in focus away from
+•
+workplace settings
+Interaction Design/User Experience Design is constantly adapting
+•
+ New technologies
+ New contexts of use
+ New understandings of how people function
+Multidisciplinary perspective vital
+•
+The challenge is to apply this to the design of better systems
+•
+39
+
+NEW PAGE
+
+Next Time…
+In our next session, we will look at Interaction
+•
+Fundamentals
+40
+
+NEW PAGE

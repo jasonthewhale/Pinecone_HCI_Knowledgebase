@@ -1,0 +1,733 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@itee.uq.edu.au
+
+NEW PAGE
+
+09
+Evaluating Usability – “Expert” or
+“Non-User” Evaluations
+2
+
+NEW PAGE
+
+In this session…
+Expert evaluation methods:
+•
+ Heuristic Evaluation
+ Schneiderman’s Golden Rules
+ Cognitive Walkthrough
+ Pluralistic Walkthrough
+ RITE UX Evaluation
+ Predictive Models
+3
+
+NEW PAGE
+
+Expert Analytical/Usability Inspections
+Quick and cheap way of
+•
+identifying usability issues
+Can be undertaken in a
+•
+number of ways:
+ Heuristic evaluation
+ Walkthroughs
+These methods represent a
+•
+This Photoby Unknown Author is licensed under CC BY
+minimum standard to meet
+4
+
+NEW PAGE
+
+Types of Evaluations
+5
+
+NEW PAGE
+
+Heuristic Evaluation
+6
+
+NEW PAGE
+
+Heuristic Evaluation
+Developed by Jacob Nielsen
+•
+in early 1990s
+Experts analyse the
+•
+interface with respect to a
+set of criteria
+Determines whether an
+•
+application or interface
+meets a (minimum) standard
+of usability
+7
+Image source: https://medium.muz.li/10-tips-on-how-to-conduct-a-perfect-heuristic-evaluation-ae5f8f4b3257
+
+NEW PAGE
+
+Heuristic Evaluation Principles
+Visibility of
+Match
+system status
+between
+Help and
+system and
+documentation
+the real world
+(for user)
+Help users
+recognise,
+User control
+diagnose, and
+and freedom
+recover from
+errors
+Heuristic
+Evaluation Consistency
+Aesthetic and
+and standards
+minimalist
+(use platform
+design
+conventions)
+Help users
+Flexibility and
+recognize,
+efficiency of
+diagnose and
+use (e.g.,
+recover from
+accelerators)
+errors
+Recognition
+Error
+rather than
+prevention
+recall
+8
+Nielsen, 2001
+
+NEW PAGE
+
+HOMERUN Heuristics
+High quality content
+•
+Often updated
+•
+Minimal download time
+•
+Ease of use
+•
+Relevant to users’ needs
+•
+Unique to the online medium
+•
+Net-centric corporate culture supporting site
+•
+9
+Nielsen, 1999
+
+NEW PAGE
+
+Heuristic Evaluation for Smartphone Apps
+SMART 1
+•Provide immediate notification of application status.
+SMART 2 •Use a theme and consistent terms, as well as conventions
+and standards familiar to user.
+SMART 3 •Prevent problems where possible; help users if problem
+occurs, including with network.
+SMART 4 •Display an overlay pointing out main features when
+appropriate or requested to help first-time users.
+SMART 5 •Each interface should focus on one task, so that it’s
+glanceable to users who are interrupted frequently.
+SMART 6 •Design a visually pleasing interface. Users ‘forgive’
+attractive interfaces.
+10
+Joyce etal. (2016)“Mobile application usability: heuristic evaluation and evaluation ofheuristics” In Advances in Human Factors, Software, and Systems Engineering
+
+NEW PAGE
+
+Heuristic Evaluation for Smartphone Apps
+SMART 7
+•Intuitive interfaces make for easier learning
+SMART 8
+•Design a clear navigable path to task completion
+SMART 9
+•Allow configuration options and shortcuts.
+SMART 10 •Cater for diverse mobile environments (lighting,
+ambient noise, gloves, etc).
+•Facilitate easier input by displaying keyboard buttons
+SMART 11
+that are as large as possible, supporting, multimodal
+input, and keeping form fields to a minimum.
+•Use camera, microphone and sensors to lessen user’s
+SMART 12
+workload (e.g. GPS so the user knows where they are
+and how to get where they need to go)
+11
+Joyce etal. (2016)“Mobile application usability: heuristic evaluation and evaluation ofheuristics” In Advances in Human Factors, Software, and Systems Engineering
+
+NEW PAGE
+
+Heuristic Evaluation – Method
+Number of evaluators:
+•
+ Different estimates:
+depends on the kind of
+application!
+ 5 evaluators → 75% of
+issues in some studies
+ 6 – 8 evaluators → 80%
+of issues in some
+studies
+ Undiscovered issues
+The proportion of usability problems identified
+may be the most
+increases as the number of evaluators used increases
+important!
+12
+Image source: https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation
+
+NEW PAGE
+
+Stages of doing a Heuristic Evaluation
+Briefing session to tell experts what to do
+1.
+Evaluation period of 1-2 hours:
+2.
+• Each expert works separately, referring to Nielsen’s
+usability principles list
+• First pass to get a feel for the product
+• Second pass to focus on specific features
+Debriefing session
+3.
+13
+This Photoby Unknown Author is licensed under CC BY-SA-NC
+
+NEW PAGE
+
+Heuristic Evaluation–Recording Results
+14
+
+NEW PAGE
+
+Heuristic Evaluation – Method
+Severity ratings are a combination of 3 factors:
+•
+ Frequency of encountering problem (common, rare)
+ Impact of problem (low, high)
+ Persistence – how easily is it overcome each time? (not,
+very)
+Can be rated on a four-point rating scale
+•
+15
+
+NEW PAGE
+
+Heuristic Evaluation – Method
+• Not a problem at all
+0
+• Cosmetic ( e.g. Freq – rare; Imp –low; Per – not) = fix if time
+1
+• Minor usability problem (e.g. Freq – common; Imp – low; Per – not)
+2 = low priority fix
+• Major usability problem (e.g. Freq - common; Imp – low; Per- very)
+3
+• Catastrophic usability problem (e.g. Freq – common; Imp = high;
+4 Per – very)
+16
+
+NEW PAGE
+
+Advantages and Problems
+Using experts – fewer ethical and practical
+•
+issues to consider
+Experts have knowledge of application
+•
+domain and usability
+Can be performed at any stage during the
+•
+design process
+Biggest problems (Bailey, 2001):
+•
+ Important problems may get overlooked –
+misses
+ Many trivial problems often identified
+ Some problems are not problems at all – false
+alarms
+Comparisons of heuristic evaluation with
+•
+other usability methods not scientifically
+precise
+17
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Guidance and Examples
+https://www.interaction-
+design.org/literature/article/user-interface-design-
+guidelines-10-rules-of-thumb
+18
+
+NEW PAGE
+
+Schneiderman’s
+Golden Rules
+19
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Strive for consistency. Utilize familiar icons,
+1.
+colours, menu hierarchy, call-to-actions, and user
+flows when designing similar situations and
+sequence of actions.
+20
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Enable frequent users to use shortcuts.
+2.
+Increased use comes the demand for quicker
+methods of completing tasks
+21
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Offer informative feedback. The user should
+3.
+know where they are at and what is going on at all
+times.
+22
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Design dialogue to yield
+4.
+closure. Don’t keep your users
+guessing. Tell them what their
+action has led them to.
+23
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Offer simple error
+5.
+handling. Systems should
+be designed to be as fool-
+proof as possible, but when
+unavoidable errors occur,
+ensure users are provided
+with simple, intuitive step-
+by-step instructions to
+solve the problem as
+quickly and painlessly as
+possible
+24
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Permit easy reversal of actions. Designers
+6.
+should aim to offer users obvious ways to reverse
+their actions.
+25
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Support internal
+7.
+locus of control.
+Allow your users
+to be the initiators
+of actions. Give
+users the sense
+that they are in
+full control of
+events occurring in
+the digital space.
+26
+
+NEW PAGE
+
+Eight Golden Rules of Interface Design
+Reduce short-term memory load. Interfaces
+8.
+should be as simple as possible with proper
+information hierarchy, and choosing recognition
+over recall
+27
+
+NEW PAGE
+
+Advantages and Problems
+Extremely easy to
+•
+understand with clear and
+practical applications
+28
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Cognitive
+Walkthrough
+29
+
+NEW PAGE
+
+Cognitive Walkthrough
+Users learn by exploring (Wharton et
+•
+al. 1994)
+Focus on ease of user learning and
+•
+are task-specific
+Process
+•
+ Designer presents an aspect of the design
+and usage scenarios.
+ Expert is told assumptions about user
+population, context of use, task details.
+ One or more experts walk through the
+design prototype with the scenario.
+ Experts are guided by three (or more) key
+questions
+30
+This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+Seven Stages of Action
+31
+Norman (1986)
+
+NEW PAGE
+
+Gulf of Execution and Evaluation
+Interfaces should be designed to reduce these gulfs
+•
+Gulf of Gulf of
+Execution Evaluation
+32
+
+NEW PAGE
+
+Cognitive Walkthrough – Method
+Identify typical users and include one or more expert
+1.
+evaluators and a designer
+Select representative tasks
+2.
+Create prototype to test users on tasks
+3.
+Identify ‘valid’ action sequences to do tasks
+4.
+Keep records
+5.
+Revise design
+6.
+33
+This Photoby Unknown Author is licensed under CC BY-SA-NC
+
+NEW PAGE
+
+Cognitive Walkthrough – Method
+Evaluators pose four questions
+•
+as they go (Polson et al. (2002):
+1. Will the user try and achieve the
+right outcome? 2 / 3
+2. Will the user notice that the
+correct action is available to
+them? 3 / 4
+3. Will the user associate the
+correct action with the outcome
+they expect to achieve? 5 / 6 / 7
+4. If the correct action is performed;
+will the user see that progress is
+being made towards their
+intended outcome 5 / 6 / 7
+34
+
+NEW PAGE
+
+Advantages and Problems
+More detailed information
+•
+Useful to examine small
+•
+parts of your system
+Time consuming
+•
+35
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Pluralistic
+Walkthrough
+36
+
+NEW PAGE
+
+Pluralistic Walkthrough
+Involves a diverse group Many variations on Supports participatory
+of stakeholders cognitive walkthrough design – end user
+theme involvement
+37
+
+NEW PAGE
+
+Advantages and Problems
+Strong focus on the user’s
+•
+task
+Performance (quantitative)
+•
+data is produced
+Involves a multidisciplinary
+•
+team
+Can take a very long time to
+•
+complete
+38
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+RITE UX Evaluation
+39
+
+NEW PAGE
+
+UX Evaluation RITE
+Rapid, Iterative, Testing and
+•
+Evaluation
+A variant on Pluralistic
+•
+walkthrough
+Facilitated by UX expert
+•
+A key feature is the fast
+•
+turnaround
+40
+UX Book, §13.6
+
+NEW PAGE
+
+UX Evaluation RITE
+41
+Image source: https://blogs.adobe.com/creativecloud/how-to-support-design-decisions-through-iterative-testing/
+
+NEW PAGE
+
+Advantages and Problems
+Involves the entire team
+•
+Decision-makers are kept
+•
+directly in the loop about the
+usability of the system
+Provides rapid identification
+•
+or problems and solutions
+Time consuming
+•
+No clear deadline when the
+•
+testing will be finished
+Rare problems may not
+•
+emerge
+42
+This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Predictive Models
+43
+
+NEW PAGE
+
+Predictive Models
+Users are not directly involved
+•
+Formulas are used to derive
+•
+various measures of user
+performance
+Less expensive than user testing
+•
+Usefulness limited to systems
+•
+with predictable tasks
+Based on expert error-free
+•
+behaviour
+44
+This Photoby Unknown Author is licensed under CC BY-NC-ND
+
+NEW PAGE
+
+Predicting Discrete Movement Time
+Fitts’ Law (Fitts, 1954)
+•
+Time to point at an object
+•
+using a device is a function of:
+ Distance from the target object
+ Object’s size.
+The further away and the
+•
+smaller the object, the longer
+the time to locate it and point
+to it.
+Useful for when the time to
+•
+locate an object is important
+(e.g., a mobile phone, handheld
+devices)
+45
+
+NEW PAGE
+
+Predicting Discrete Movement Time
+MT = a + b log (2A/W)
+2
+Log-linear relationship
+MT = Movement Time (usually milliseconds)
+A = Amplitude (or Distance) of movement
+W = Width of target
+Slightly different version:
+ID = index of difficulty in bits: log (2A/W)
+2 MT = a + b log (A/W + 1)
+2
+MT = a + b * ID 46
+
+NEW PAGE
+
+Predicting Discrete Movement Time
+m
+m
+0
+1
+m =
+m W
+0
+2
+=
+MT = a + b log (D/W + 1)
+W
+2
+Assume a = 50ms and b = 150ms
+•
+m
+m
+m
+MT = 50 + 150 * (log (80/20 + 1)) = 398 ms
+• m
+i 2 0
+0 0
+8 1
+MT = 50 + 150 * (log (100/10 + 1)) = 569 ms = =
+•
+ii 2 D D
+× ×
+47
+(i) (ii)
+
+NEW PAGE
+
+*may be subject to change
+Timeline
+Week 9 – No Studios
+Studio Topics* Assessment Deadlines
+• No studios this week
+o 2 x drop-in sessions
+Week 10 – Studio 8
+throughout the week
+o You should continue working on
+your assessments during this time
+In-Class Quiz
+• No lecture this week
+Week 11 – Studio 9
+• Studios to cover expert evaluation
+methods
+Interface Inquiry
+Report DUE: 22/05/2023
+• DECO2500: Assessment work by 3PM (AEST)
+• DECO7250: Annotated Bibliography
+Week 12 – Studio 10
+studio
+Design Proposal DUE:
+• Assessment work (nor formal studio
+05/06/2023 by 3PM
+activities)
+(AEST)
+Week 13 – Studio 11
+• Interface Inquiry Critique (in studios)
+DECO7250 Annotated
+Bibliography DUE:
+12/06/2023 by 3PM
+Exam Period
+(AEST)
+48
+
+NEW PAGE
+
+Summary
+Inspections can be used to evaluate requirements, mock-ups,
+•
+functional prototypes, or systems
+User testing and heuristic evaluation may reveal different
+•
+usability problems
+Shneiderman's eight golden rules are intended to help
+•
+designers solve problems as to improve usability, an interface
+needs to be well designed to be "user-friendly"
+Walkthroughs are focused: suitable for evaluating small parts
+•
+of a product
+ Cognitive walkthroughs: design team
+ Pluralistic walkthroughs: design team and users
+Predictive models, such Fitts’ Law, can be used to predict
+•
+expert, error-free performance for certain kinds of tasks
+49
+
+NEW PAGE
+
+Next Time…
+No studios this week due to public holiday
+•
+ Drop-in sessions Thursday/Friday 2 – 4pm (see Blackboard
+for details)
+No lecture next week due to public holiday
+•
+ Studios on as normal that will cover today’s topics
+Lecture resumes week 11 (08/05/2023) for in-
+•
+class quiz
+50
+
+NEW PAGE

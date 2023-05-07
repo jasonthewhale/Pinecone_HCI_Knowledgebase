@@ -1,0 +1,812 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@itee.uq.edu.au
+
+NEW PAGE
+
+02
+Interaction Fundamentals
+2
+
+NEW PAGE
+
+In this session…
+Introduction to User Experience Design (UX)
+•
+Ethics and HCI
+•
+Contextual Inquiry
+•
+Interaction Fundamentals
+•
+Gulfs of Execution and Evaluation
+•
+3
+
+NEW PAGE
+
+HCI and You
+Information
+Technology
+HCI
+Software Computer
+Engineering Science
+4
+
+NEW PAGE
+
+HCI and Other Disciplines
+Various disciplines
+•
+work together to create
+interfaces that are user-
+friendly and efficient
+Plays a crucial role in
+•
+ensuring that the
+interaction between
+humans and technology
+is seamless, efficient,
+and enjoyable (Norman,
+1988; Shackel, 1990)
+Norman, D. A. (1988). The psychology of everyday things. New York: Basic Books 4
+Shackel, B. (1990). Human-computerinteraction: An interdisciplinary subject. Human-Computer Interaction, 5(1), 3-9.
+
+NEW PAGE
+
+User Experience
+UX is more important
+•
+than ever before
+Through technology,
+•
+customers are more
+informed than ever before,
+and so have higher
+expectations
+UX will overtake product
+•
+and price as the key brand
+differentiator by the end of
+the decade
+7
+Image source: This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+Why Do IT Developers and
+Software Engineers Need HCI?
+People have died because software engineers
+•
+did not understand the people and contexts
+their systems were intended to support
+Systems can fail for many reasons other than
+•
+being poorly engineered
+Most systems fail for social, not technical
+•
+reasons
+All systems will (somehow) be used by people
+•
+so understanding users is part of the job of a
+developer
+8
+
+NEW PAGE
+
+Why Do IT Developers and Software
+Engineers Need HCI?
+Because it’s legislated
+•
+International Organisation
+•
+for Standardisation (ISO)
+standards are
+internationally agreed by
+experts
+ ISO12207:2017 (Software life
+cycle processes)
+ ISO9241-210:2019 (Human-
+centred design processes for
+interactive systems)
+9
+
+NEW PAGE
+
+Peter Morville’s UX Honeycomb
+original & fulfil a need
+Useful
+evoke emotion &
+easy to use
+appreciation
+Usable Desirable
+Valuable
+Findable Accessible
+accessible to all
+navigable people
+Credible
+people must trust &
+believe
+10
+http://semanticstudios.com/user_experience_design/
+
+NEW PAGE
+
+Ethics
+As computing professionals you must act responsibly and
+•
+consider the wider impact of your work
+You must place the interests of the public above those of
+•
+personal, business or sectional interests
+You must strive to enhance the quality of life of those
+•
+affected by your work
+11
+Image source: https://jleong8.github.io/essays/ethics.html
+
+NEW PAGE
+
+Ethics and HCI
+HCI research is usually subjected to
+•
+formal ethical review processes
+This is to ensure that participants
+•
+are being treated with respect and
+integrity, and are having their
+rights protected
+ Abusing the participants can bring
+disrepute to the whole research
+community
+Traditional lab-based experiments
+•
+are being replaced with more
+participatory processes, contextual
+and ethnographic methods, and
+focus group studies
+12
+ThisPhotobyUnknownAuthor islicensedunder CCBY-SA
+
+NEW PAGE
+
+ACM Code of Ethics
+The Association for Computing Machinery (ACM) Code
+•
+of Ethics is concerned with how fundamental ethical
+principles apply to a computing professional's conduct.
+Composed of four broad sections:
+General Ethical Principles
+•
+Professional Responsibilities
+•
+Professional Leadership Principles
+•
+Compliance with the Code
+•
+13
+
+NEW PAGE
+
+Ethics in DECO2500/7250
+People will be involved in your design activities
+•
+Treat people with respect
+•
+Be transparent about the purpose of the research
+•
+Value their time
+•
+Protect their identity, data and reputation
+•
+Give them control over their data
+•
+14
+
+NEW PAGE
+
+How do we start understanding
+people and their needs?
+Contextual inquiry
+•
+ Research methodology that involves in-depth
+observation and interviews of a small sample of
+users to gain a robust understanding of work
+practices and behaviours
+Context: Research takes place in the users’
+•
+natural environment as they conduct their
+activities the way they normally would
+Inquiry: The researcher watches the user
+•
+as they perform tasks and asks for
+information to understand how and why
+users do what they do
+15
+
+NEW PAGE
+
+Contextual Inquiry
+Can provide richer and more
+•
+relevant information about how
+users complete processes
+Allows the researcher to see things
+•
+you wouldn’t anticipate and uncover
+low-level details that have become
+habitual and invisible
+16
+
+NEW PAGE
+
+Contextual Inquiry
+• Observe in the natural • User and researcher are
+environment partners in the process
+Context Partnership
+Focus Interpretation
+• Researcher understands • Researcher develops a
+the purpose of the shared interpretation for
+research project and important aspects of the
+what information should work
+be sought 17
+
+NEW PAGE
+
+Conducting Contextual Inquiry
+Interview people
+•
+Observations
+•
+Research existing applications and systems in the
+•
+domain/topic
+Conduct an online survey
+•
+18
+
+NEW PAGE
+
+Limitations of Surveys
+“From this contextual inquiry I chose to make a
+behavioural change app that blocks apps to help people
+who use their phone too much.”
+19
+
+NEW PAGE
+
+Interviews
+Generally, there are two types of
+•
+questions that can be asked during the
+contextual inquiry: questions about
+current behaviour, and questions about
+potential changes
+ “Why did you click on this button?” are
+behavioural, and they are asked in response
+to something a participant did.
+ “What would you suggest to add to the
+product to make it better?” or, “What did you
+like/dislike about this product?” help
+participants articulate responses about their
+needs or formulate requests for changes.
+It’s important to prepare a list of both
+•
+types of questions for the session
+20
+
+NEW PAGE
+
+What will we do with our data?
+To understand people's problems, needs and
+goals we need to understand our data and figure
+Existing systems
+out what will really help them:
+research (desk
+research)
+User Interviews
+Identify Insights Meaning & Needs
+Observations
+Frame analysis
+● Necessary outcomes
+●
+Deeper meaning
+● Features for those
+●
+Online Surveys
+Root causes
+● outcomes
+Is it the real problem?
+● Interactional
+●
+What hasn’t been said
+● requirements for those
+etc.
+● features
+Interface requirements
+●
+for those interactions
+21
+
+NEW PAGE
+
+Data Analysis
+Bridging the gap between user research
+•
+raw data and creating personas is one
+of the biggest challenges for UX
+designers.
+Insights, problems, observations, ideas,
+•
+concerns and pain points need to be
+transformed into a concrete format to
+be able to understand their users in a
+holistic way
+Affinity Diagram is a tool that gathers
+•
+large amounts of language data and
+organizes them into groupings based on
+their natural relationships
+22
+
+NEW PAGE
+
+Affinity Diagrams
+Go Group & What’s
+Physical Label Next?
+23
+
+NEW PAGE
+
+Affinity Diagrams – Go Physical
+Take all data collected and write
+•
+them down on yellow sticky
+notes
+Each sticky note must have only
+•
+one information, insight,
+problem or pain point
+Make sure to keep a note that
+•
+reference to the original
+transcript or source of
+information to return back when
+need to (Use U1, U2 & U3 to
+refer to your users)
+24
+
+NEW PAGE
+
+Affinity Diagrams – Group & Label
+Yellow: The building blocks
+•
+of the affinity diagram, each
+yellow note represents a
+single observation, idea, pain
+point or insight.
+Blue: A group of yellow
+•
+sticky notes (Two to four
+notes is the best) grouped
+together.
+Pink: A higher level groups
+•
+containing blue sticky notes.
+Green: The top level
+•
+grouping which contains a
+group of pink sticky notes.
+25
+
+NEW PAGE
+
+Affinity Diagrams – What’s Next?
+Finished affinity diagram will give you a holistic view
+•
+of all the user research you have done and you will be
+able to see the full picture
+The next step could be building the personas,
+•
+requirements and user journeys…
+26
+
+NEW PAGE
+
+How do we design more usable systems?
+Our first bit of theory is from design: 7 principles
+This Photoby Unknown Author is licensed under CC BY-SA
+27
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Discoverability Feedback Conceptual Model
+Affordances Signifiers Mapping
+Constraints
+28
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Discoverability
+•
+ Users can determine what actions are possible and the
+current state of the system.
+29
+Don Norman, "The Design of Everyday Things” (Chapter 2) (image: apple.com)
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Feedback
+•
+ The system immediately communicates the results of a
+user’s action, and displays continuous information about its
+own state.
+30
+Don Norman, "The Design of Everyday Things” (Chapter 2) (image: stackoverflow.com)
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Conceptual Model
+•
+ Describes a holistic understanding of a
+system: how it works, how it behaves,
+what it does
+ The designer’s conceptual model of the
+system is a “high-level description of
+how a system is organized and
+operates”1.
+ Conceptual models are revealed
+through the patterns of interactive
+behaviour designed into a system—how
+the system collectively behaves over
+time.
+1Johnson, J., & Henderson, A. (2002). Conceptual models: Begin by designing what to design. Interactions,
+9(1), 25–32. https://doi.org/10.1145/503355.503366
+31
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Affordances
+•
+ Affordances are the physical possibilities for action an
+object provides a user.
+ Things like: throw-able, push-able, squeeze-able, turn-able,
+twist-able, etc.
+ Do not depend on interpretation, meaning, recognition or
+understanding. They are just “there”—possibilities for
+physical action.
+32
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+Interaction Fundamentals – Affordances
+Refers to the properties of an object AND the person
+•
+It’s the relationship between the object and the
+•
+person and what the person can do with that object
+In HCI, affordance is defined as perceivable action
+•
+possibilities
+ Depend on the users’ physical capabilities and their goals
+and past experiences
+33
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Signifiers
+•
+ Signifiers are meaning-carriers
+ Signs, indicators, signals, icons, animations etc. that can be
+interpreted meaningfully
+ Act as signs to indicate affordances
+34
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+Interaction Fundamentals – Signifiers
+Communication “devices” or indicators that tell
+•
+people what to do and where to do it.
+Some sort of indicator, some signal in the physical or
+•
+social world that can be interpreted meaningfully and
+help people understand.
+35
+
+NEW PAGE
+
+Affordances vs Signifiers
+36
+
+NEW PAGE
+
+Affordances vs Signifiers
+37
+
+NEW PAGE
+
+Affordances vs Signifiers
+38
+Image source: https://www.apple.com/us-hed/shop/buy-ipad/ipad-9-7/32gb-space-gray-wifi
+
+NEW PAGE
+
+Affordances vs Signifiers
+39
+Image source: http://opening.download/first-downloading.html
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Mapping
+•
+ The relationship between controls and their actions follows
+the principles of good mapping, enhanced as much as
+possible through spatial layout and temporal contiguity.
+40
+Don Norman, "The Design of Everyday Things” (Chapter 2) (image: Tom Djajadiningrat)
+
+NEW PAGE
+
+7 Fundamental Principles of Design
+Constraints
+•
+ Providing physical, logical, semantic, and cultural
+constraints guides actions and eases interpretation.
+41
+Don Norman, "The Design of Everyday Things” (Chapter 2) (image: stackexchange.com)
+
+NEW PAGE
+
+Interaction under a microscope
+Our second bit of theory…
+•
+This Photoby Unknown Author is licensed under CC BY-SA
+42
+
+NEW PAGE
+
+The Seven Stages of Action
+43
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+The Seven Stages of Action
+Goal
+Compare
+Plan
+Interpret
+Specify
+Perceive
+Perform
+44
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Norman’s (1986) “Seven
+•
+Stages of the Action Cycle”
+composes interactions into
+steps
+Each step may be well or
+•
+poorly supported.
+45
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+The gulfs are two sources of difficulty when interacting
+•
+with a machine or system. They occur due to issues with
+discoverability and feedback.
+Gulf of Execution
+•
+ Difference between the user’s formulation of actions to reach a
+goal and actions allowed by system
+ If the actions allowed by a system match the user’s intention,
+then interaction will be effective
+Gulf of Evaluation
+•
+ Distance between physical presentation of system state and
+expectations of the user
+ If a user can readily evaluate presentation in terms of goals, the
+gulf of evaluation is small
+46
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+How do I work out
+the right thing to
+do?
+How do I work out
+what the system
+did?
+47
+Norman (1986)
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+The interaction starts with the person having a goal
+•
+that they want to accomplish
+48
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+The Gulf of Execution is the gulf between a person’s
+•
+goal and the means of achieving that goal
+49
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+The Gulf of Evaluation is the gulf between assessing
+•
+the state of the world (the system) and determining if
+that state matches the person’s goal.
+50
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Execution there are three stages
+•
+or questions that people work through…
+51
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Execution there are three stages
+•
+or questions that people work through…
+52
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Execution there are three stages
+•
+or questions that people work through…
+53
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Execution there are three stages
+•
+or questions that people work through…
+54
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Evaluation there are three stages
+•
+or questions that people work through…
+55
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Evaluation there are three stages
+•
+or questions that people work through…
+56
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Evaluation there are three stages
+•
+or questions that people work through…
+57
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+Within the Gulf of Evaluation there are three stages
+•
+or questions that people work through…
+58
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+We don’t always follow this sequentially - but tend to jump backwards and forwards
+•
+Some steps are not conscious (even goal setting)
+•
+Problems can arise at any step in the sequence - even with the user’s goal (not having
+•
+a clear understanding of what they are wanting to do)
+59
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+It is a useful tool to evaluate interactions and
+•
+systems
+60
+
+NEW PAGE
+
+Gulfs of Execution and Evaluation
+AND there are many other factors that impact on an
+•
+interaction, which we will cover in the future
+61
+
+NEW PAGE
+
+The only correct answer to any UX design question
+is…It depends
+62
+
+NEW PAGE
+
+Assessment and Feedback
+This course will give you an opportunity to use/apply
+•
+HCI theories & methods in the context of a specific
+design context (the project in the studios)
+There are very few questions with absolute
+•
+right/wrong answers, but there are always
+better/worse ones.
+ Wicked problems
+ Requires interpretation, judgement (and in the design
+context) rationale for decisions
+63
+
+NEW PAGE
+
+Summary
+User experience is an important aspect of the design
+•
+process that should not be overlooked
+As computing professionals, you have a responsibility
+•
+to act maturely and consider the wider impact of your
+work
+The seven-stage model of the action cycle is a
+•
+valuable design tool that provides a basic checklist of
+questions to ask when designing software
+Designers can support their users by being aware of
+•
+the gulfs and bridging them
+64
+
+NEW PAGE
+
+Next Time…
+In our next session, we will look at Mental Models
+•
+and Conceptual Design
+65
+
+NEW PAGE

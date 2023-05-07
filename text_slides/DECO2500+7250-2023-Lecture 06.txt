@@ -1,0 +1,873 @@
+Human-Computer
+Interaction (HCI)
+DECO2500/7250
+Dr Chelsea Dobbins
+deco2500@itee.uq.edu.au
+
+NEW PAGE
+
+06
+Interaction: Usability and Interfaces
+2
+
+NEW PAGE
+
+In this session…
+Usability
+•
+Interaction
+•
+ Interface Metaphors
+ Reducing Cognitive Load:
+ Miller’s Law
+ Gestalt’s Theory
+ Hicks Law
+ Fitts’ Law
+ Design Patterns and Consistency
+Interface Inquiry Assignment
+•
+3
+
+NEW PAGE
+
+Announcements
+Team Charter due by the end of
+•
+this week (31/03/23) by 5pm
+ Blackboard > Assessment > Design
+Proposal > Team Charter Submission
+ Please only submit your team charter
+once, when your team has been finalised
+ Any team member may submit on behalf
+of the entire team
+ Students without a team by the end of
+the week will be placed in one
+No studios next week (week 7)
+•
+ ‘Drop-in’ sessions will be announced on
+Blackboard instead
+4
+
+NEW PAGE
+
+What is Usability?
+“The extent to which a product
+•
+can be used by specified users
+to achieve specified goals, with
+effectiveness, efficiency and
+satisfaction in a specified
+context of use. ” ISO 9421-11
+Standard on Usability
+“…Quite simply: if your
+•
+product is not usable, its UX
+will be bad, and users will
+leave you for your competitors.”
+Interaction Design Foundation
+5
+This Photoby Unknown Author is licensed under CC BY-SA-NC
+
+NEW PAGE
+
+Perspectives of Usability
+•Whether users can complete their goals with
+Effectiveness
+a high degree of accuracy
+Efficiency
+•Is about speed. How fast? How many steps?
+•Not just about looking nice but also looking
+Engaging
+right to the user and for the context
+Error
+•Ensure that a user can easily recover from
+Tolerance an error and get to what she or he was doing.
+•Users need to be able to learn how to use the
+Easy to Learn
+system easily - it is second nature
+6
+Whitney Quesenberry (2001), The 5Es
+
+NEW PAGE
+
+Perspectives of Usability
+Discoverability Feedback Conceptual Model
+Affordances Signifiers Mapping
+Constraints
+7
+Don Norman, "The Design of Everyday Things” (Chapter 2)
+
+NEW PAGE
+
+Metaphors
+“A figure of speech in which a
+•
+word or phrase is applied to
+an object or action to which it
+is not literally applicable”
+Oxford Dictionary
+ E.g. “The toast jumped out of the
+toaster”
+Interface metaphors can help
+•
+the user understand the
+interface
+8
+Image source: https://www.shutterstock.com/image-vector/vector-illustration-male-surfer-rides-big-352665830
+
+NEW PAGE
+
+Interaction Metaphors
+“Cognitive models for interaction that can
+•
+profoundly influence the design of interfaces
+to data spaces” (Ware, 2013)
+Used to communicate new ideas and help
+•
+people understand the type of interaction
+that we expect to take place
+Describe a pattern. Can classify patterns
+•
+and make them distinct from others
+Communicate affordances – what an object
+•
+is, its purpose, and how people can interact
+with it
+Help novices become experts by helping
+•
+them relate it to the real world
+Ware, C., 2013. Chapter Ten - Interacting with Visualizations. Information Visualization (Third Edition),
+9
+https://doi.org/10.1016/B978-0-12-381464-7.00010-7
+
+NEW PAGE
+
+Desktop Metaphor
+Macintosh interface
+Xerox Star (1981)
+10
+Image source: https://blog.hightail.com/trashing-desktop-metaphor/ https://www.nngroup.com/articles/anti-mac-interface/
+
+NEW PAGE
+
+Interface Metaphors
+11
+
+NEW PAGE
+
+Card-Based Metaphors
+12
+Image source: https://uxplanet.org/using-card-based-design-to-enhance-ux-51f965ab70cb
+
+NEW PAGE
+
+Card-Based Metaphors
+13
+Image source: https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/ https://uxplanet.org/using-card-based-design-to-enhance-ux-51f965ab70cb
+
+NEW PAGE
+
+Benefits of Card-Based Metaphors
+Content is chunked
+•
+ Helps users to scan information by
+dividing content into sections
+Easy to Process
+•
+ Information can be communicated and
+digested quickly
+Visually Attractive
+•
+ Relies on images, which are attractive
+and immediately catches the eye
+14
+Image source: https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/
+
+NEW PAGE
+
+Benefits of Card-Based Metaphors
+Beneficial For
+•
+Various Screen Sizes
+ Easily manipulated
+for multiple screen
+sizes (consistency)
+Easy for Thumbs
+•
+ Users instinctively
+understand the
+interaction of turning
+a card over or swiping
+for more information
+15
+Image source: https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/
+
+NEW PAGE
+
+Human Memory Limitations
+Sensory memory
+•
+ Fraction of a second up to 2 seconds
+Short-term/working memory
+•
+ Small amount of information held (approx. 7 items or less)
+for a short period (usually from 10 to 15 seconds
+Chunking
+•
+ +61(0)733651190
+Stacking
+•
+ Leaky
+ Closure
+16
+Image source: https://irenevigueguix.wordpress.com/2017/12/13/how-human-memory-works/
+
+NEW PAGE
+
+Human Memory Limitations
+Long Term memory
+•
+ Organisation and
+structure important
+ Very high Capacity
+ Retrieval not
+guaranteed
+Interface
+•
+considerations
+ Recognition, recall,
+shortcuts, muscle
+memory
+17
+Image source: This Photoby Unknown Author is licensed under CC BY-SA
+
+NEW PAGE
+
+Measuring Cognitive Load
+18
+
+NEW PAGE
+
+NASA task load index (NASA TLX)
+Tool for measuring and conducting a
+•
+subjective mental workload (MWL)
+assessment
+It allows you to determine the MWL
+•
+of a participant while they are
+performing a task
+It rates performance across six
+•
+dimensions to determine an overall
+workload rating
+19
+
+NEW PAGE
+
+Reducing Cognitive Overload
+A number of principles
+•
+can be drawn upon
+from cognitive science
+to increase the
+usability of software
+ Miller’s Law
+ Gestalt’s Theory
+ Hicks Law
+ Fitts’ Law
+ Design patterns and
+consistency
+20
+Image source: https://exploringyourmind.com/john-swellers-cognitive-load-theory/
+
+NEW PAGE
+
+Chunking – Miller’s Law (1956)
+The average person can only keep 7 (plus
+•
+or minus 2) items in their working
+memory
+ 7 plus or minus 2 Rule
+Chunking = The function of grouping
+•
+information together related by
+perceptual features
+Organize content into smaller chunks to
+•
+help users process, understand, and
+memorize easily
+Short-term memory capacity will vary
+•
+per individual, based on their prior
+knowledge and situational context
+Miller, G.A., 1956. The magical number seven, plus or minus two: Some limits on our capacity for processing information.
+21
+Psychological review, 63(2), p.81.
+
+NEW PAGE
+
+Chunking – Miller’s Law
+22
+
+NEW PAGE
+
+Chunking – Miller’s Law
+1
+Which one applies
+Miller’s Law better?
+2
+23
+
+NEW PAGE
+
+Chunking – Miller’s Law
+1
+Which one applies
+Miller’s Law better?
+2
+24
+
+NEW PAGE
+
+Gestalt’s Theory
+25
+Image sources: https://www.pinterest.com.au/pin/14566398773713448/ https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/4074-gestalt-theory.html
+https://www.usertesting.com/blog/gestalt-principles/ https://www.psywww.com/intropsych/ch04-senses/gestalt-psychology.html#thewhole
+
+NEW PAGE
+
+Gestalt’s Theory
+Conceived by German
+•
+psychologists, Max
+Wertheimer, Kurt Koffka
+Wolfgang Kohler and Christian
+von Ehrenfels, in the 1920s
+ Gestalt = 'shape' or 'form'
+“The whole is other than the
+•
+sum of the parts” – Kurt Koffka
+Our brains are built to see
+•
+structure and patterns in order
+for us to better understand the
+environment that we’re living
+in
+26
+Image source: https://www.usertesting.com/blog/gestalt-principles/
+
+NEW PAGE
+
+Gestalt’s Theory
+27
+
+NEW PAGE
+
+Proximity and Similarity
+Proximity
+•
+ The distance between objects in a display influences our perception of how objects are organized
+ Things that are close together go together
+ Similar information should be grouped together to simplify layouts and vice versa
+Similarity
+•
+ Objects that look similar are perceived to be more related and are often are put together
+ Can help to organise and categorise objects within a group (colour, size, shape, etc.)
+28
+Image sources: https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
+NEW PAGE
+
+Similarity
+Proximity and Similarity
+Colour is used to
+group items
+together
+Proximity
+Grouping radio
+buttons together
+signals an
+association
+29
+Image sources: https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/gestalt-principles-of-form-perception
+
+NEW PAGE
+
+Continuity and Closure
+Continuity
+•
+ Items in a line or curve are thought to be more related
+ When lines intersect we see two lines rather than four lines that join at a point
+Closure
+•
+ Humans prefer complete shapes
+ Any gaps are automatically filled in with bits that don’t exist to perceive a complete image
+ This includes extending lines to form an unbroken object
+30
+Image sources: https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
+NEW PAGE
+
+Continuity and Closure
+Continuity
+Arrangement of
+Closure
+rows and columns
+Often used in
+icons to
+communicate
+31
+Image sources: https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
+NEW PAGE
+
+Symmetry and Figure/Ground
+Symmetry
+•
+ When humans see symmetrical items there is an assumption that a connection exists to form a
+whole
+ Complexity is reduced by parsing complex images into the simplest one
+Figure/Ground
+•
+ Our minds separate images into a foreground (figure) and a background (ground)
+ This results in one view becoming more overriding, while the other one will be harder to see
+32
+Image sources: https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
+NEW PAGE
+
+Symmetry and Figure/Ground
+Symmetry
+Can be used in
+galleries, banners,
+navigation, etc.
+Figure/Ground
+Shapes are separated
+from the background
+33
+Image sources: https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
+NEW PAGE
+
+Common Fate
+Common Fate
+•
+ When elements move towards the same direction they are thought of as being
+more related
+ Concerned with moving object (similar to proximity and similarity)
+ Things that move with similar patterns are seen as being grouped
+34
+Image sources: https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965
+
+NEW PAGE
+
+Hick’s Law
+The time it takes for a person
+•
+to make a decision as a result
+of the possible choices he or she
+has
+ Increasing the number of choices
+will increase the decision time
+logarithmically
+The more choices that are
+•
+presented to a user, the longer
+it takes them to make a
+decision
+Important for designers to not
+•
+overcomplicate and build too
+much functionality into an
+application
+35
+
+NEW PAGE
+
+Hick’s Law
+36
+
+NEW PAGE
+
+Hick’s Law Example
+Your phone starts playing a sound…
+•
+37
+
+NEW PAGE
+
+Hick’s Law Example
+Your phone starts playing a sound…
+•
+It takes three seconds to detect that the sound is an
+•
+alarm you set (a = 3)
+38
+
+NEW PAGE
+
+Hick’s Law Example
+Your phone starts playing a sound…
+•
+It takes three seconds to detect that the sound is an
+•
+alarm you set (a = 3)
+As you’re human (b = 0.155 sec.)
+•
+39
+
+NEW PAGE
+
+Hick’s Law Example
+Your phone starts playing a sound…
+•
+It takes three seconds to detect that the sound is an
+•
+alarm you set (a = 3)
+As you’re human (b = 0.155 sec.)
+•
+You have four buttons to turn off the alarm: snooze,
+•
+stop, home button, and power button (n = 4)
+40
+
+NEW PAGE
+
+Hick’s Law Example
+Your phone starts playing a sound…
+•
+It takes three seconds to detect that the sound is an
+•
+alarm you set (a = 3)
+As you’re human (b = 0.155 sec.)
+•
+You have four buttons to turn off the alarm: snooze,
+•
+stop, home button, and power button (n = 4)
+RT = (3 sec) + (0.155 sec)(log2 (4)) = 3.31 sec.
+•
+41
+
+NEW PAGE
+
+Examples of Hick’s Law
+Instagram Double Tap:
+The user has 3 major
+choices with respect to the
+content they see — Like it,
+Comment on it and Share
+it.
+• Infinite scroll in
+Instagram: An
+abundance of
+choices keeps the
+user engaged in
+its app for as long
+as possible
+42
+
+NEW PAGE
+
+Examples of Hick’s Law
+Zomato ample choices:
+the user is presented with
+numerous choices, thereby
+increasing the decision-
+making time while
+constantly exposing them to
+food pictures
+“The Top 10 in your
+country” by Netflix:
+People are inclined to make
+decisions about watching
+those shows in lesser time
+43
+
+NEW PAGE
+
+Fitts’ Law
+A model of human movement
+•
+that is used to accurately
+predict the amount of time taken
+to move to and select a target
+Movement through a graphical
+•
+user interface
+Gives us the relationship
+•
+between the time it takes a
+pointer (such as a mouse cursor,
+a human finger, or a hand) to
+move to a particular target (e.g.,
+physical or digital button, a
+physical object) in order to
+interact with it in some way
+(e.g., by clicking or tapping it,
+grasping it, etc.):
+44
+
+NEW PAGE
+
+Fitts’ Law
+45
+
+NEW PAGE
+
+Fitts’ Law
+46
+
+NEW PAGE
+
+Fitts’ Law and UX: Optimizing Target
+Size
+Bigger Is Better:
+•
+ People will be faster to click, tap, or hover on bigger
+targets
+ Error rates go down as target sizes increases
+Icons Plus Labels
+•
+ Text labels reduce icon ambiguity and makes it easy
+to understand
+ Improves movement time to that particular target
+Padding Is Not Enough
+•
+ A padded target is usually a small target that has a
+bigger invisible active area around it
+ Padding will help prevent some overshooting errors
+(if they realise it’s there)
+47
+
+NEW PAGE
+
+Fitts’ Law and UX: Optimizing Target
+Size
+Infinite Targets Along Screen
+•
+Edges:
+ The final-movement component can
+be greatly reduced if the target is
+very big — or even infinite
+ Screen edges act as natural walls for
+the cursor — as soon as the pointer
+reaches an edge, it cannot move
+beyond it, regardless of the speed
+with which that wall has been hit.
+Don’t Crowd Targets:
+•
+ Targets too close to each other is a
+risk that people will accidentally
+overshoot and accidentally trigger the
+wrong target
+ Especially likely to happen if the
+targets are small.
+48
+
+NEW PAGE
+
+Fitts’ Law and UX: Optimizing Distance
+to Target
+Menu Design:
+•
+ The average distance from menu handle to a menu element depends on
+the type of menu
+ Linear Menu: Items are arranged in a straight line
+ Rectangular Menu: Items are arranged along both the horizontal and vertical
+dimensions
+ Pie Menu: All elements are placed on a circle around the handle and thus are
+equally far away from the handle
+49
+
+NEW PAGE
+
+Fitts’ Law and UX: Optimizing Distance
+to Target
+Linear Menu:
+•
+ The distance from the menu
+handle to the first element is
+the shortest
+ The distance to the last
+element in the menu is the
+longest
+ The average movement time
+can be improved by aligning
+the handle with the middle
+of the menu
+50
+
+NEW PAGE
+
+Fitts’ Law and UX: Optimizing Distance
+to Target
+Linear Menu:
+•
+In mobile devices, some
+•
+contextual menus show the
+associated options in a
+bottom sheet that appears
+far away from the menu
+label
+This design is suboptimal,
+•
+since it forces the users to
+waste movement time
+Ideally, the options should
+•
+appear close to the label.
+51
+
+NEW PAGE
+
+Fitts’ Law and UX: Optimizing Distance
+to Target
+Place Related Targets Close
+•
+to Each Other:
+ Minimizes the distance
+between them and optimizes
+overall task time
+52
+
+NEW PAGE
+
+Interaction Design Patterns
+Interaction design patterns are an
+•
+important tool for knowledge sharing
+Reusable/recurring components that
+•
+designers use to solve common
+problems in user interface design
+Users of the pattern can see the
+•
+problem and solution
+Understand the context where the
+•
+idea has worked before
+Access a rationale for why it worked
+•
+53
+
+NEW PAGE
+
+Interaction Design Patterns
+A key feature of design patterns is
+•
+that they can be implemented in
+many different ways
+Design patterns are recurring
+•
+solutions that solve common design
+problem that are a quick way to build
+interfaces
+Go Back to a Safe Place
+•
+ The "Home" button on a Web browser
+ Provides a way to go back to a checkpoint
+54
+https://ui-patterns.com/patterns
+
+NEW PAGE
+
+Interaction Design Patterns
+Problem
+Imple-
+Use when
+mentation
+Design
+Pattern
+Examples Principle
+Why Solution
+55
+https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/interaction-design-patterns
+
+NEW PAGE
+
+Interaction Design Patterns
+https://ui-
+patterns.com/patterns/PasswordStrengthMeter
+56
+
+NEW PAGE
+
+Consistency
+Interfaces should be designed
+•
+to have similar operations
+and use similar elements for
+achieving similar tasks
+A consistent interface follows
+•
+rules, such as using the same
+operation to select all objects
+Interfaces that are consistent
+•
+are easier to learn and use
+Only a single mode of
+•
+operation has to be learned
+that is applicable to all objects
+57
+This Photoby Unknown Author is licensed under CC BY
+
+NEW PAGE
+
+Types of Consistency
+Visual Functional
+•Increases learnability •Increases
+predictability
+Internal External
+consistency consistency
+•Improves usability •The user’s knowledge
+and learnability for one product can
+be reused in another
+58
+
+NEW PAGE
+
+Interface Inquiry Assignment
+Read the brief Select only ONE task to Select ONE Expert Week 13: Provide a
+direct the inspection of Evaluation method and critique of the work in-
+the user interface by ONE other User-based class to your tutor
+Week 7 and inform your evaluation method to (identity verified
+tutor of your selection undertake assessment) – Hurdle:
+students must achieve at
+least a Pass (+/-) for the
+critique portion of the
+task to be eligible to pass
+the entire assessment
+59
+
+NEW PAGE
+
+Summary
+Usability is part of a broader term of “user experience”
+•
+and refers to the ease of access and/or use of a product or
+website
+There isn’t just one perception of usability and no one is
+•
+the sole right one
+Interface metaphors can help users understand the
+•
+interface by combining recognizable knowledge with new
+knowledge
+A number of laws and principles can be drawn upon from
+•
+cognitive science to increase the usability of software and
+reduce cognitive load
+60
+
+NEW PAGE
+
+Next Time…
+In our next session, we will look at UX Goals and
+•
+Metrics
+61
+
+NEW PAGE
